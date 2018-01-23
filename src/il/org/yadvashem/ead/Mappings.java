@@ -31,11 +31,10 @@ public class Mappings
             	if(nextRecord.length == 3) 
             	{
                 	String key = nextRecord[0].replace("\"", "");
-                	String utf8Hash = new String(key.getBytes("UTF-8"));
                 	String auth = nextRecord[1].replace("\"", "");
                 	String id = nextRecord[2].replace("\"", "");
                 	SubjectTerms st = new SubjectTerms(key, auth, id);
-                	hash.put(utf8Hash, st);
+                	hash.put(key, st);
                 }
             	else {
             		System.out.println("Incorrect mapping line: " + nextRecord[0]);

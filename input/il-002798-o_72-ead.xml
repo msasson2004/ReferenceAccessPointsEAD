@@ -32,7 +32,7 @@
     <did>
       <unitid>O.72</unitid>
 	<origination>The file was created by
-		<name role="creator" authfilenumber="350" source="ehri_cb">War Refugee Board</name> 
+		<name role="creator">War Refugee Board</name> 
 	in year 1942
 	</origination>
       <unittitle encodinganalog="3.1.2">Menachem Kaufmann Collection: Documentation regarding Communities in Germany, mainly in Hessen</unittitle>
@@ -64,7 +64,7 @@ JL according to the RG description in the YV system
       </p>
     </processinfo>
     <controlaccess>
-      <subject authfilenumber="872" source="ehri_terms">Jewish Communities</subject>
+      <subject>Jewish Communities</subject>
     </controlaccess>
     <controlaccess>
       <geogname>

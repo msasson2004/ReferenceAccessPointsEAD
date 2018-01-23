@@ -146,9 +146,8 @@ public class App {
 	                case XMLStreamConstants.CHARACTERS:
 	                    if(inName || inCorp || inPers || inSubj)
 	                    {
-		        			String txt = xmlStreamReader.getText().replace("&lt;", "<").replaceAll("&gt;", ">");
-		        			String utf8Hash = new String(txt.getBytes("UTF-8"));
-		        			st = hash.get(utf8Hash);
+		        			String txt = xmlStreamReader.getText().replaceAll("&lt;", "<").replaceAll("&gt;", ">");
+		        			st = hash.get(txt);
 		        			if(st == null) {
 		        				xtw.writeCharacters(txt);
 		        				System.out.println("st name not found: " + txt);
@@ -162,9 +161,8 @@ public class App {
 	                    }
 	                    else if(inOrig)
 	                    {
-		        			name = xmlStreamReader.getText().replace("&lt;", "<").replaceAll("&gt;", ">");
-		        			String utf8Hash = new String(name.getBytes("UTF-8"));
-		        			st = hash.get(utf8Hash);
+		        			name = xmlStreamReader.getText().replaceAll("&lt;", "<").replaceAll("&gt;", ">");
+		        			st = hash.get(name);
 		        			if(st == null)
 		        				xtw.writeCharacters(name);
 		        			else {

@@ -31,7 +31,7 @@
   <archdesc level="recordgrp">
     <did>
       <unitid>R.5</unitid>
-      <origination authfilenumber="798" source="ehri_cb">Reichsministerium des Innern</origination>
+      <origination>Reichsministerium des Innern</origination>
       <unittitle encodinganalog="3.1.2">The German Emigrants Card Catalog expatriated by the Nazis (Ausbürgerungskartei)</unittitle>
       <physdesc encodinganalog="3.1.5">36 Files</physdesc>
       <langmaterial>
@@ -65,15 +65,15 @@
       </p>
     </processinfo>
     <controlaccess>
-      <subject authfilenumber="339" source="ehri_terms" authfilenumber="339" source="ehri_terms">Anti-Jewish orders and decrees</subject>
-      <subject authfilenumber="880" source="ehri_terms" authfilenumber="880" source="ehri_terms">Jewish emigration</subject>
-      <subject authfilenumber="335" source="ehri_terms" authfilenumber="335" source="ehri_terms">Anti-Jewish legislation</subject>
+      <subject authfilenumber="339" source="ehri_terms">Anti-Jewish orders and decrees</subject>
+      <subject authfilenumber="880" source="ehri_terms">Jewish emigration</subject>
+      <subject authfilenumber="335" source="ehri_terms">Anti-Jewish legislation</subject>
     </controlaccess>
     <controlaccess>
       <geogname>Germany</geogname>
     </controlaccess>
     <controlaccess>
-      <corpname authfilenumber="798" source="ehri_cb">Reichsministerium des Innern</corpname>
+      <corpname>Reichsministerium des Innern</corpname>
       <corpname>Deutsches Innerministerium {?}</corpname>
     </controlaccess>
   </archdesc>
