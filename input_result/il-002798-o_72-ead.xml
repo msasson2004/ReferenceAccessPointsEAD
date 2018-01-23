@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" repositoryencoding="iso15511" relatedencoding="DC">
+    <eadid>il-002798-o_72</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Menachem Kaufmann Collection: Documentation regarding Communities in Germany, mainly in Hessen</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>ארכיון יד ושם / Yad Vashem Archives</publisher>
+        <address>
+          <addressline>Jerusalem</addressline>
+          <addressline>IL</addressline>
+          <addressline>+97226443669</addressline>
+          <addressline>9726443719</addressline>
+          <addressline>http://yadvashem.org/</addressline>
+          <addressline>ref@yadvashem.org.il</addressline>
+          <addressline>Israel</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This file was exported automatically from the EHRI database administration tool and represents a work-in-progress.
+        <date normal="20170813">2017-08-13T08:44:11.131+01:00</date>
+      </creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="recordgrp">
+    <did>
+      <unitid>O.72</unitid>
+	<origination>The file was created by
+		<name role="creator">War Refugee Board</name> 
+	in year 1942
+	</origination>
+      <unittitle encodinganalog="3.1.2">Menachem Kaufmann Collection: Documentation regarding Communities in Germany, mainly in Hessen</unittitle>
+      <physdesc encodinganalog="3.1.5">124 Files</physdesc>
+      <langmaterial>
+        <language langcode="deu" encodinganalog="3.4.3">German</language>
+      </langmaterial>
+      <repository>
+        <corpname>ארכיון יד ושם / Yad Vashem Archives</corpname>
+      </repository>
+    </did>
+    <processinfo encodinganalog="3.7.1">
+      <p>
+JL according to the RG description in the YV system
+</p>
+    </processinfo>
+    <scopecontent encodinganalog="3.3.1">
+      <p>The files include information regarding the Jewish communities,mainly in the Hessen area, (including Jewish community-owned property) and the lives of the Jews.</p>
+    </scopecontent>
+    <originalsloc encodinganalog="3.5.1">
+      <p>YV archives</p>
+    </originalsloc>
+    <custodhist encodinganalog="3.2.3">
+      <p>In the collection there are files submitted to Yad Vashem by Menachem Kaufmann, who gathered documentation regarding Jewish communities, mainly in the Hessen area.</p>
+    </custodhist>
+    <processinfo encodinganalog="3.7.3">
+      <p>
+        <date>2013-04-09</date>
+      </p>
+    </processinfo>
+    <controlaccess>
+      <subject>Jewish Communities</subject>
+    </controlaccess>
+    <controlaccess>
+      <geogname>
+	<extptr xlink:type="simple" xlink:href="http://dati.cdec.it/lod/shoah/place/Germany"></extptr>
+	Germany</geogname>
+    </controlaccess>
+  </archdesc>
+</ead>
