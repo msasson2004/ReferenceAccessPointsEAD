@@ -1,0 +1,365 @@
+key: Julag I,מחנה, num missed: 12
+key: Brzesc nad Bugiem,בית יתומים,אתר רצח,Poland, num missed: 1
+key: KRIPO - Kriminalpolizei, num missed: 1
+key: Kurowice,מחנה, num missed: 3
+key: Feldafing,מחנה עקורים,Germany, num missed: 1
+key: Jaworzno,מחנה, num missed: 1
+key: Lambach,Stadl-Paura, Lambach 1010 / 1012,מחנה עקורים,Austria, num missed: 1
+key: Skawina,גטו, num missed: 1
+key: Tarnow,גטו, num missed: 14
+key: Jedrzejow,גטו, num missed: 1
+key: Stryj,עיירה,אתר רצח,Poland, num missed: 1
+key: Siauliai,מחנה, num missed: 1
+key: Koenigsberg,<>,<>,Germany, num missed: 1
+key: Borwicz Michal Borwicz Michal, num missed: 1
+key: L?beck,מחנה עקורים,Germany, num missed: 1
+key: Bobrka,<>,<>,<>, num missed: 1
+key: Paris,מחנה, num missed: 1
+key: Borwicz Michal, num missed: 421
+key: Neustadt,מחנה, num missed: 1
+key: Nowy Sacz,גטו, num missed: 2
+key: Rawa Ruska,גטו, num missed: 1
+key: Mittelbau,מחנה,Germany, num missed: 1
+key: Drohobycz,מחנה, num missed: 2
+key: Pustkow,מחנה, num missed: 12
+key: Ratibor,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Szeparowce Area,יער,אתר רצח,Poland, num missed: 1
+key: Westerbork,מחנה,The Netherlands, num missed: 1
+key: Stutthof,מחנה, num missed: 8
+key: Lieberose,מחנה, num missed: 1
+key: Buchberg Lager,מחנה,Germany, num missed: 1
+key: התיק נוצר על ידי, num missed: 850
+key: Bug,נהר,אתר רצח, num missed: 1
+key: Theresienstadt - Kleine Festung,מקום מעצר, num missed: 1
+key: Stanislawow,עיר,אתר רצח,Poland, num missed: 2
+key: Rabka,אתר רצח, num missed: 1
+key: Zschachwitz,מחנה, num missed: 1
+key: Passau Oberilzmuehle,מחנה, num missed: 1
+key: Sonneberg,<>,Thuringia,Germany, num missed: 1
+key: ZYdowska Komisja Historyczna, num missed: 2
+key: Boizenburg an der Elbe,Schwerin,Mecklenburg,Germany, num missed: 1
+key: Pawelcze Area,יער,אתר רצח,Poland, num missed: 1
+key: Nadarzyn,Grodzisk Mazowiecki,Warszawa,Poland, num missed: 1
+key: Schlieben,מחנה, num missed: 2
+key: Niepolomice,אתר רצח, num missed: 1
+key: Brody,גטו, num missed: 1
+key: Kamionka Strumilowa Area,אתר רצח,Poland, num missed: 1
+key: Tarnow,אתר רצח, num missed: 3
+key: Riga,גטו, num missed: 1
+key: Szebnie,מחנה, num missed: 7
+key: Schoemberg,מחנה, num missed: 1
+key: Starachowice,מחנה, num missed: 2
+key: Leningrad Area,Ladozhskoye Ozero,אגם,אתר רצח,Russia (USSR), num missed: 1
+key: Krakow Prokocim,מחנה, num missed: 2
+key: Jaworzno,גטו, num missed: 1
+key: Meissen,Dresden Bautzen,Saxony,Germany, num missed: 1
+key: Przemyslany,מחנה, num missed: 1
+key: Boriwcz Michal, num missed: 1
+key: Montelupich,מקום מעצר, num missed: 11
+key: Oels,Breslau,Silesia (Lower),Germany, num missed: 1
+key: Poznan,מחנה, num missed: 1
+key: Stanislawow,גטו, num missed: 5
+key: Freiberg,Dresden Bautzen,Saxony,Germany, num missed: 1
+key: Auschwitz III - Monowitz,מחנה,Poland, num missed: 1
+key: Mittelsteine,מחנה, num missed: 1
+key: Tarnopol,גטו, num missed: 3
+key: Ludwigslust,Schwerin,Mecklenburg,Germany, num missed: 1
+key: Malchow,מחנה, num missed: 1
+key: Bruenlitz,מחנה, num missed: 3
+key: Lwow,עיר,אתר רצח,Poland, num missed: 3
+key: Skarzysko Kamienna,מחנה, num missed: 16
+key: Poznan/Fort Radziwilla,מחנה, num missed: 2
+key: Zoerbig,Merseburg,Saxony,Germany, num missed: 1
+key: Blachownia ?l?ska/Blechhammer,מחנה,Poland, num missed: 5
+key: Monowitz,מחנה,Poland, num missed: 2
+key: Berlin,Berlin,Berlin,Germany, num missed: 5
+key: Breslau,מחנה,Germany, num missed: 1
+key: Mielec,גטו, num missed: 1
+key: Radymno,מחנה, num missed: 1
+key: Auschwitz Birkenau,מחנה השמדה,Poland, num missed: 9
+key: Ravensbrueck,מחנה, num missed: 7
+key: Zydowska Komisja Historyczna, num missed: 418
+key: Janowska,מחנה, num missed: 19
+key: Nossen,Leipzig,Saxony Province,Germany, num missed: 1
+key: Lwow,Piaski,גבעה,אתר רצח,Poland, num missed: 6
+key: Gera,Weimar,Thuringia,Germany, num missed: 1
+key: Seidlitz,Frankfurt,Brandenburg,Germany, num missed: 1
+key: Allach,מחנה,Germany, num missed: 1
+key: Przemyslany,גטו, num missed: 4
+key: Buczacz,גטו, num missed: 2
+key: Dyhrenfurth Ii,מחנה, num missed: 1
+key: Dora,מחנה,Germany, num missed: 3
+key: <>,<>,<>,Germany, num missed: 7
+key: Kreuzsee,מחנה,Germany, num missed: 1
+key: Zydowska KOmisja Historyczna, num missed: 1
+key: Arbeitsamt, num missed: 1
+key: Praust,Swiecie,Pomorze,Poland, num missed: 2
+key: Monowice,מחנה,Poland, num missed: 1
+key: Gleiwitz,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Garmisch Partenkirchen,Oberbayern,Bavaria,Germany, num missed: 1
+key: Flossenburg,מחנה, num missed: 6
+key: Freiburg,מחנה, num missed: 1
+key: Leitmeritz,מחנה, num missed: 4
+key: Drezno,Dresden Bautzen,Saxony,Germany, num missed: 1
+key: Rajsko,מחנה,Poland, num missed: 1
+key: Malines,Caserne Dossin,מחנה,Belgium, num missed: 1
+key: Langenbielau,Breslau,Silesia (Lower),Germany, num missed: 1
+key: Lwow,מחנה, num missed: 2
+key: Gorlice,מחנה,Poland, num missed: 1
+key: Koenigshuette,<>,<>,Germany, num missed: 1
+key: Skarzysko,מחנה, num missed: 13
+key: Boryslaw,אתר רצח, num missed: 2
+key: Gleiwitz Iii,מחנה, num missed: 1
+key: עזרה סוציאלית, num missed: 1
+key: Opole,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Stryj,בית קברות יהודי,אתר רצח,Poland, num missed: 1
+key: Czestochowa,מחנה, num missed: 5
+key: Linz Iii,מחנה, num missed: 2
+key: Bochnia,אתר רצח, num missed: 2
+key: Theresienstadt,גטו,Czechoslovakia, num missed: 4
+key: Srodula,גטו, num missed: 1
+key: Janowka Area,יער,אתר רצח,Poland, num missed: 1
+key: Czestochowa,גטו, num missed: 2
+key: Oderberg,<>,Brandenburg,Germany, num missed: 1
+key: Lipsko,מחנה, num missed: 2
+key: Busk,גטו, num missed: 2
+key: Blechhammer,מחנה,Poland, num missed: 2
+key: Krakow,אתר רצח, num missed: 4
+key: Dachau,מחנה,Germany, num missed: 7
+key: Osterode am Harz,מחנה, num missed: 1
+key: Jaworow Area,יער,אתר רצח,Poland, num missed: 1
+key: Potulice,מחנה,Poland, num missed: 1
+key: Puszcza Niepolomicka,אתר רצח, num missed: 1
+key: Pawiak,בית סוהר,אתר רצח,Poland, num missed: 2
+key: Strehlen,Breslau,Silesia (Lower),Germany, num missed: 1
+key: Busko Zdroj,אתר רצח, num missed: 1
+key: Wittstock,<>,Brandenburg,Germany, num missed: 1
+key: Glogow,<>,<>,Poland, num missed: 1
+key: Cosel,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Bodzechow,מחנה,Poland, num missed: 1
+key: Kamionka Strumilowa,עיירה,אתר רצח,Poland, num missed: 1
+key: Rechlin,מחנה,Germany, num missed: 1
+key: Stanislawow,בית חולים,אתר רצח,Poland, num missed: 1
+key: Pionki,מחנה, num missed: 2
+key: רומקובסקי מרדכי חיים (1887 - 1944), num missed: 1
+key: Radziechow,גטו, num missed: 1
+key: Dolzig,Frankfurt,Brandenburg,Germany, num missed: 1
+key: Aschersleben,מחנה,Germany, num missed: 1
+key: Zloczow,גטו, num missed: 1
+key: Bergen Belsen,מחנה,Germany, num missed: 7
+key: Linz,מחנה, num missed: 1
+key: Lwow,בית סוהר,אתר רצח, num missed: 4
+key: Budzyn,מחנה,Poland, num missed: 1
+key: Rzeszow,גטו, num missed: 2
+key: Michal Borwicz, num missed: 2
+key: Borwicz MIchal, num missed: 1
+key: Nowy Sacz,אתר רצח, num missed: 1
+key: Rzeszow,מחנה, num missed: 3
+key: Gross Masselwitz,מחנה,Germany, num missed: 1
+key: Berezno Area,אתר רצח,Poland, num missed: 1
+key: Pinnau,<>,<>,Germany, num missed: 1
+key: Trautenau,מחנה, num missed: 1
+key: Wolbrom,גטו, num missed: 1
+key: Theresienstadt - Kleine Festung,מחנה, num missed: 1
+key: Przemysl,מחנה, num missed: 1
+key: Bratislava,גטו, num missed: 1
+key: Grimma,Leipzig,Saxony,Germany, num missed: 1
+key: Malchow,Schwerin,Mecklenburg,Germany, num missed: 1
+key: Grodek Jagiellonski,גטו, num missed: 1
+key: Rozwadow,מחנה, num missed: 1
+key: Zloczow,מחנה, num missed: 2
+key: Biebow Hans, num missed: 1
+key: Ohrdruf,מחנה, num missed: 1
+key: Gleiwitz,מחנה, num missed: 6
+key: Baumgarten,מחנה,Germany, num missed: 1
+key: Neustadt Orla Boerthen,Weimar,Thuringia,Germany, num missed: 1
+key: Gerdauen,מחנה,Germany, num missed: 1
+key: Kaiserwald,מחנה, num missed: 1
+key: Zakliczyn,אתר רצח, num missed: 1
+key: Jaworow,בית קברות יהודי,אתר רצח,Poland, num missed: 1
+key: Inowroclaw,מחנה, num missed: 2
+key: Petliura Simon (Semyon), num missed: 1
+key: Kamionka Strumilowa Area,גדת הנהר,אתר רצח,Poland, num missed: 1
+key: Krakow,גטו, num missed: 51
+key: Lipsko,Leipzig,Saxony,Germany, num missed: 2
+key: Sakrau,מחנה, num missed: 1
+key: Ravensbrueck,Potsdam,Brandenburg,Germany, num missed: 1
+key: Janow,מחנה, num missed: 1
+key: Krakow Bonarka,מחנה, num missed: 1
+key: Mielec,מחנה, num missed: 1
+key: Jedwabne,אתר רצח, num missed: 1
+key: Wurzen,Leipzig,Saxony,Germany, num missed: 1
+key: Kielce,אתר רצח, num missed: 1
+key: Leipzig,Leipzig,Saxony,Germany, num missed: 1
+key: Jaworow,גטו, num missed: 2
+key: Majdanek,מחנה,Poland, num missed: 5
+key: Raciborz,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Theresienstadt,מחנה עקורים,Czechoslovakia, num missed: 1
+key: אי"ל - ארגון יהודי לוחם (בגטו Krakow), num missed: 3
+key: Radogoszcz,מחנה, num missed: 1
+key: גטו Warszawa, num missed: 8
+key: Gunthergrube,<>,<>,Germany, num missed: 1
+key: Wieliczka,גטו, num missed: 9
+key: Tlumacz,גטו, num missed: 2
+key: Breslau,Breslau,Silesia (Lower),Germany, num missed: 4
+key: Borwicz Maksymilian Marcel, num missed: 2
+key: Auschwitz I,מחנה ריכוז,מחנה,Poland, num missed: 6
+key: Piotrkow,אתר רצח, num missed: 1
+key: Kratzau,מחנה, num missed: 3
+key: Bochnia,מחנה,Poland, num missed: 2
+key: Debica,גטו, num missed: 1
+key: Doebeln,Leipzig,Saxony,Germany, num missed: 1
+key: Slomniki,אתר רצח, num missed: 1
+key: Tarnopol,מחנה, num missed: 1
+key: Weimar,Weimar,Thuringia,Germany, num missed: 1
+key: Swietochlowice,מחנה, num missed: 1
+key: Frysztak,מחנה, num missed: 1
+key: Goldberg,Schwerin,Mecklenburg,Germany, num missed: 1
+key: Gunskirchen,מחנה, num missed: 1
+key: Busk,גטו סגור,אתר רצח,Poland, num missed: 1
+key: רכבת הרייך הגרמני, num missed: 1
+key: פרטיזנים סובייטיים למחיקה, num missed: 3
+key: Tilsit,Gumbinnen,East Prussia,Germany, num missed: 1
+key: Czortkow,גטו, num missed: 1
+key: Debica,מחנה, num missed: 2
+key: Brnenec,מחנה, num missed: 1
+key: Chmielnik,מחנה, num missed: 1
+key: Hamburg,Hamburg,Hamburg,Germany, num missed: 1
+key: Althammer,מחנה,Poland, num missed: 1
+key: Zittau,מחנה, num missed: 1
+key: Wroclaw,Breslau,Silesia (Lower),Germany, num missed: 2
+key: Kiel,Kiel,Schleswig-Holstein,Germany, num missed: 1
+key: Busko Zdroj,גטו, num missed: 1
+key: Luckenwalde,Stalag III A,מחנה,Germany, num missed: 1
+key: Krzeszowice,מחנה, num missed: 1
+key: Innsbruck,מחנה, num missed: 1
+key: Skarzysko Kamienna,אתר רצח, num missed: 1
+key: Budapest,מקום מעצר, num missed: 1
+key: Sollstedt,Erfurt,Saxony,Germany, num missed: 1
+key: Tarnopol,עיר,אתר רצח,Poland, num missed: 2
+key: Reichenbach,מחנה, num missed: 1
+key: Budapest,מחנה, num missed: 1
+key: Skawina,אתר רצח, num missed: 1
+key: Lichtewerden,מחנה, num missed: 3
+key: Warszawa,גטו, num missed: 19
+key: Birkenau,מחנה השמדה,Poland, num missed: 17
+key: Biezanow,מחנה,Poland, num missed: 6
+key: Tyniecki,יער,אתר רצח, num missed: 3
+key: Stanislawow,טחנת קמח,אתר רצח,Poland, num missed: 1
+key: Osterode,מחנה, num missed: 1
+key: Boryslaw,גטו, num missed: 2
+key: Goerlitz,Liegnitz,Silesia (Lower),Germany, num missed: 1
+key: Gleiwitz I,מחנה, num missed: 1
+key: Neukirch,Koenigsberg,East Prussia,Germany, num missed: 1
+key: Krakow,מחנה, num missed: 10
+key: Boryslaw Area,אתר רצח,Poland, num missed: 2
+key: Waldsee,<>,<>,Germany, num missed: 1
+key: Praust,מחנה,Germany, num missed: 1
+key: Dornfeld,מחנה, num missed: 1
+key: Schoenefeld,מחנה,Germany, num missed: 1
+key: Debica,אתר רצח, num missed: 2
+key: Gross Rosen,מחנה,Germany, num missed: 17
+key: Sachsenhausen,מחנה,Germany, num missed: 6
+key: Dubnica,מחנה, num missed: 1
+key: Jaktorow,מחנה, num missed: 2
+key: Lesienice,Lesinitskiy,יער,אתר רצח,Poland, num missed: 1
+key: Sosnowiec,גטו, num missed: 1
+key: Neustadt Glewe,מחנה, num missed: 1
+key: Crawinkel,מחנה, num missed: 2
+key: Bochnia,גטו, num missed: 12
+key: Flossenbuerg,מחנה, num missed: 4
+key: Kielce Hasag,מחנה, num missed: 1
+key: Lwow Area,יער,אתר רצח, num missed: 1
+key: Liebenau,מחנה, num missed: 1
+key: Buczacz,עיירה,אתר רצח,Poland, num missed: 1
+key: Leipzig - Schoenefeld - Women,מחנה, num missed: 1
+key: Zloczow,אתר רצח,Poland, num missed: 1
+key: Auschwitz,מחנה,Poland, num missed: 61
+key: Dukla,מחנה, num missed: 1
+key: Drohobycz,גטו, num missed: 1
+key: Przemysl,גטו, num missed: 6
+key: Warszawa Umschlagplatz,אתר רצח, num missed: 5
+key: Grafenort,מחנה, num missed: 1
+key: Gardelegen,Magdeburg,Saxony Province,Germany, num missed: 1
+key: Goerlitz,מחנה, num missed: 1
+key: Lwow,מקום מעצר,Poland, num missed: 1
+key: Luebben,מחנה,Germany, num missed: 1
+key: Borwicz Marcel Maksymilian, num missed: 2
+key: Kielce,מחנה, num missed: 1
+key: Gliwice,Oppeln,Silesia (Upper),Germany, num missed: 5
+key: Tarnow Opolski,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: עם הסימול Krakow, num missed: 4
+key: Krosno,אתר רצח, num missed: 1
+key: Pelkinie,אתר רצח, num missed: 1
+key: Kempten,Schwaben,Bavaria,Germany, num missed: 1
+key: Oldenburg,Oldenburg,Oldenburg,Germany, num missed: 1
+key: Watenstedt,מחנה, num missed: 1
+key: Rawicz,מחנה, num missed: 1
+key: Sobibor,מחנה השמדה,Poland, num missed: 2
+key: Legionowo,גטו, num missed: 1
+key: Borwicz Maksymilian Michal (1911-1987), num missed: 2
+key: Boryslaw,מחנה,Poland, num missed: 3
+key: Belzec,מחנה השמדה,Poland, num missed: 22
+key: Huta Komorowska,מחנה, num missed: 1
+key: Fuenfteichen,מחנה, num missed: 1
+key: Leipzig,מחנה, num missed: 1
+key: Muldorf,<>,Bavaria,Germany, num missed: 1
+key: Plaszow,מחנה, num missed: 88
+key: Trzebinia,מחנה, num missed: 1
+key: Berezno,גטו, num missed: 1
+key: Zbaraz Area,אתר רצח,Poland, num missed: 1
+key: Stryj,גטו, num missed: 1
+key: Buna Monowitz,מחנה,Poland, num missed: 1
+key: Wieliczka,מחנה, num missed: 7
+key: Landsberg,מחנה, num missed: 1
+key: Barwinek,אתר רצח, num missed: 1
+key: Szebnie,אתר רצח, num missed: 1
+key: Hanaczow Forest,Przemyslany,Tarnopol,Poland, num missed: 1
+key: Stanislawow,מבנה,אתר רצח,Poland, num missed: 1
+key: <>,מחנה,Poland, num missed: 1
+key: Falenica,גטו, num missed: 1
+key: Drohobycz (Klinker Zement Gmbh),מחנה, num missed: 1
+key: Brzezany,גטו, num missed: 1
+key: Stanislawow,בית קברות יהודי,אתר רצח,Poland, num missed: 7
+key: Friesen,<>,Bavaria,Germany, num missed: 1
+key: Stanislawow,Rudolf,טחנת קמח,אתר רצח,Poland, num missed: 1
+key: Podgorze,אתר רצח, num missed: 1
+key: Fuenfteichen,מחנה,Germany, num missed: 1
+key: Mauthausen,מחנה,Austria, num missed: 17
+key: Sambor,גטו, num missed: 2
+key: Nowy Sacz,מחנה, num missed: 1
+key: Buchenwald,מחנה, num missed: 16
+key: OD, num missed: 4
+key: Magdeburg,Magdeburg,Saxony Province,Germany, num missed: 1
+key: Gusen,מחנה,Austria, num missed: 3
+key: Brody Area,יער,אתר רצח,Poland, num missed: 1
+key: Treblinka,מחנה השמדה,Poland, num missed: 3
+key: Mosciska,גטו, num missed: 1
+key: Kamionka Strumilowa,Kamionka Strumilowa,Tarnopol,Poland, num missed: 1
+key: Bobrka,גטו, num missed: 1
+key: Parschnitz,מחנה, num missed: 2
+key: BorwIcz Michal, num missed: 1
+key: Kielce,גטו, num missed: 1
+key: Kamionki,מחנה, num missed: 1
+key: Minsk Mazowiecki,אתר רצח, num missed: 1
+key: Rozniatow,Dolina,Stanislawow,Poland, num missed: 1
+key: Prokocim,מחנה,Poland, num missed: 3
+key: Jawiszowice,מחנה, num missed: 1
+key: Hasag Leipzig,מחנה,Germany, num missed: 2
+key: Oranienburg,מחנה, num missed: 9
+key: Crawinkel,Weimar,Thuringia,Germany, num missed: 1
+key: Warszawa,מחנה, num missed: 1
+key: Lodz,גטו,Poland, num missed: 5
+key: Kolmar,מחנה, num missed: 2
+key: Ural Geo Region,<>,<>,USSR, num missed: 1
+key: Sulejow,מחנה, num missed: 1
+key: Kaufering,מחנה, num missed: 1
+key: Lwow,גטו, num missed: 14
+key: Drengfurt,Koenigsberg,East Prussia,Germany, num missed: 1
+key: Krakow, num missed: 1
+key: Boryslaw,עיירה,אתר רצח,Poland, num missed: 1
+key: Bruennlitz,מחנה, num missed: 2
+key: Tluste,עיירה,אתר רצח,Poland, num missed: 1
+key: Tluste Miasto,גטו, num missed: 1
+key: Drancy,מחנה,France, num missed: 1
+Total missed keys: 364 total missed count: 2724

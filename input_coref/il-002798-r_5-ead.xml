@@ -65,12 +65,12 @@
       </p>
     </processinfo>
     <controlaccess>
-      <subject authfilenumber="339" source="ehri_terms" authfilenumber="339" source="ehri_terms">Anti-Jewish orders and decrees</subject>
-      <subject authfilenumber="880" source="ehri_terms" authfilenumber="880" source="ehri_terms">Jewish emigration</subject>
-      <subject authfilenumber="335" source="ehri_terms" authfilenumber="335" source="ehri_terms">Anti-Jewish legislation</subject>
+      <subject authfilenumber="339" source="ehri_terms">Anti-Jewish orders and decrees</subject>
+      <subject authfilenumber="880" source="ehri_terms">Jewish emigration</subject>
+      <subject authfilenumber="335" source="ehri_terms">Anti-Jewish legislation</subject>
     </controlaccess>
     <controlaccess>
-      <geogname>Germany</geogname>
+      <geogname authfilenumber="1" source="ehri_geo">Germany</geogname>
     </controlaccess>
     <controlaccess>
       <corpname authfilenumber="798" source="ehri_cb">Reichsministerium des Innern</corpname>

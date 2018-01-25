@@ -22,25 +22,36 @@ public class Mappings
         	Charset set = Charset.forName("UTF-8");
         	Reader reader = Files.newBufferedReader(Paths.get(file_path), set);
             CSVReader csvReader = new CSVReader(reader);
-        	
+        	int count = 0;
             String[] nextRecord;
 
             while ((nextRecord = csvReader.readNext()) != null) 
             {
-//                System.out.println(readLine);
             	if(nextRecord.length == 3) 
             	{
-                	String key = nextRecord[0].replace("\"", "");
-                	String auth = nextRecord[1].replace("\"", "");
-                	String id = nextRecord[2].replace("\"", "");
-                	SubjectTerms st = new SubjectTerms(key, auth, id);
-                	hash.put(key, st);
+            		String rawKey = nextRecord[0];
+            		String key = nextRecord[0].trim();
+                	String auth = nextRecord[1];
+                	String id = nextRecord[2];
+                	SubjectTerms st = new SubjectTerms(rawKey, auth, id);
+                	SubjectTerms st2 = hash.get(key);
+                	if(st2 != null) {
+                		if(!st2.Num.equals(id))
+                			System.out.println("collision: " + key + " id mismatch " + st2.Num + " - " + id);
+                		if(!st2.Auth.equals(auth))
+                			System.out.println("collision: " + key + " auth mismatch " + st2.Auth + " - " + auth);
+                	}
+                	hash.put(key.toLowerCase(), st);
+                	count++;
                 }
-            	else {
+            	else 
+            	{
             		System.out.println("Incorrect mapping line: " + nextRecord[0]);
             	}
             }
             csvReader.close();
+            System.out.println("Total of " + count);
+            System.out.println("In hash " + hash.size());
             return hash;
         } 
         catch (IOException e) {

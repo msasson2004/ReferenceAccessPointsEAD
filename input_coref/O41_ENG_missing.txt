@@ -1,0 +1,1952 @@
+key: גילה פטרן Jozo Weiss, Eva Krecova, num missed: 1
+key: היידט גינטר, num missed: 1
+key: ד"ר אמד אלכסנדר, num missed: 1
+key: זליקוביץ מנדל, num missed: 1
+key: לוי איון, num missed: 1
+key: העמותה לחקר תולדות היהודים ב-Blankenese, num missed: 1
+key: Esslingen,Stuttgart,Wuerttemberg,Germany, num missed: 1
+key: Muenchen,Oberbayern,Bavaria,Germany, num missed: 1
+key: ישראלביץ יונה, num missed: 1
+key: יצחק שדמון, num missed: 1
+key: איזבוצקי דוד, num missed: 1
+key: Khaya Gordon, num missed: 2
+key: יודנראט, num missed: 1
+key: רווה מיראל ארנו, num missed: 1
+key: Eisenach,Weimar,Thuringia,Germany, num missed: 1
+key: &, num missed: 2
+key: רוזן שלמה, num missed: 1
+key: Ezoory Nina, num missed: 1
+key: Juedische Kultusgemeinde in Bohemen und Maehren, num missed: 1
+key: Drobitskiy Yar,Murder Site, num missed: 1
+key: מדון ניר, num missed: 1
+key: URADU VLADNEHO KOMISAR VO VOZOKANOCH, num missed: 1
+key: Julius Margolinsky, num missed: 1
+key: Hagenbach,Pfalz,Bavaria,Germany, num missed: 1
+key: Szraga Szleifer, num missed: 1
+key: Schoenebeck Elbe,Magdeburg,Saxony Province,Germany, num missed: 1
+key: Patschkau,<>,Silesia (Upper),Germany, num missed: 1
+key: Lucinski Jozef Edmund, num missed: 1
+key: באומוול יצחק, num missed: 1
+key: American Council Of The Holocaust And The Jewish Resistance, num missed: 2
+key: אסנת שגיא, num missed: 1
+key: MUSEUM ZUR GESCHICHTE VON CHRISTEN UND JUDEN, LAUPHEIM, num missed: 1
+key: Vladimir Lummer, num missed: 1
+key: בוריס שריפקר, num missed: 1
+key: Panstwowe Muzeum Oswiecim, num missed: 2
+key: Zaslavl Area,Dryaniny,forest,Murder Site,Belorussia (USSR), num missed: 1
+key: Talka Area,forest,Murder Site,Belorussia (USSR), num missed: 1
+key: ויזר שמואל, num missed: 1
+key: Dolina,Ghetto, num missed: 5
+key: מאיר אלק, num missed: 1
+key: Korsun Shevchenkovskiy Area,Rezanyi Yar,ravine,Murder Site,Ukraine (USSR), num missed: 1
+key: Safron Lewis Ann, num missed: 1
+key: Jewish Agency for Palestine, num missed: 1
+key: Mr. Harry Karten, num missed: 1
+key: סמולר חסיה, num missed: 1
+key: וקשטיין אילן, num missed: 1
+key: SAD GRODZKI WE WLOCLAWKU, num missed: 1
+key: Romrod,<>,Hesse,Germany, num missed: 3
+key: תושבי Sverzhen: M. Raikhlin, S. Fradkin, B. Shandalov, S. Kaplun, B. Minayeva, G. Zalmanova, num missed: 1
+key: Walldorf,Weimar,Thuringia,Germany, num missed: 1
+key: פארבאנד פון ווילנער יידן אין די פאראייניקטע שאטן, num missed: 1
+key: זינובי חסקל סטצקי, num missed: 1
+key: Bronna Gora Area,Murder Site,Poland, num missed: 1
+key: Mefkure,Death Ship, num missed: 2
+key: Bauerbach,Weimar,Thuringia,Germany, num missed: 1
+key: בובקוב מריה, num missed: 1
+key: Plattling,Camp, num missed: 1
+key: שייבה וונגרובסקי מוליבר, num missed: 2
+key: Kiev,Babiy Yar,ravine,Murder Site,Ukraine (USSR), num missed: 1
+key: Karl Woda, num missed: 1
+key: סולגוטובסקי ליאוניד, num missed: 1
+key: Hoersing,DP CAMP, num missed: 1
+key: איזנפלד רות, num missed: 1
+key: UNITED STATES HOLOCAUST MEMORIAL MUSEUM, num missed: 1
+key: ע"י שגרירות ישראל במינסק, num missed: 2
+key: ע"י פרנקל דניאל, num missed: 1
+key: סלבה תמרקין, num missed: 1
+key: Melk an der Donau,Camp, num missed: 1
+key: Stara Gradiska,Camp,Yugoslavia, num missed: 3
+key: אנדרמן זאב, ארגון יוצאי בוצ'צאץ', num missed: 1
+key: Boris Aptekman, num missed: 1
+key: Mairie du 18 Arrondissement, num missed: 1
+key: אינה גרסימובה, מנהלת של מוזיאון לתולדות יהודי בלורוסיה, num missed: 1
+key: אוה פלורסהיים, num missed: 2
+key: Laufersweiler,Koblenz,Rhine Province,Germany, num missed: 1
+key: פנקס ליבנת, num missed: 1
+key: Eliazar Blohstein Lev Tiohin, num missed: 2
+key: מאיר, num missed: 1
+key: סטלה צ'רנובה, num missed: 1
+key: דמיטרי אולנובסקי, num missed: 2
+key: קרן גיורא, num missed: 1
+key: ליפרוב יצחק, num missed: 1
+key: רביד ברוך, num missed: 1
+key: Kalgsbald Moshe, member of the Trzebibia Community in Israel, num missed: 1
+key: גבעון אורי, num missed: 1
+key: Buchenwald,Camp, num missed: 35
+key: Hersbruck,Camp, num missed: 1
+key: Maly Trostinec,Camp, num missed: 4
+key: גלנץ גארי, num missed: 1
+key: ויסמן אנה, num missed: 1
+key: Mettenheim Oberbayern,Oberbayern,Bavaria,Germany, num missed: 1
+key: Sabac "Judische Lager",Camp, num missed: 2
+key: Anatoliy Mulko, num missed: 1
+key: Osthofen,Camp, num missed: 1
+key: שואל רינה, num missed: 1
+key: קרן "חסד אושר", num missed: 1
+key: מרים שפריי, num missed: 1
+key: גרייגבסקי יובל, עו"ד, num missed: 1
+key: לא ידוע, num missed: 6
+key: קובובי אסתר, num missed: 1
+key: Miranda del Ebro,Camp,Spain, num missed: 2
+key: בינדר יהונתן, num missed: 1
+key: גלוסקה אהרון, num missed: 1
+key: Icchak Strulovitz, num missed: 1
+key: Mittweida,<>,Saxony,Germany, num missed: 1
+key: Saarbruecken,Saar,Saar,Germany, num missed: 1
+key: סוניה וילצ'נסקי, num missed: 1
+key: מירושניק אלכסנדר, num missed: 1
+key: Bespechny Polina, num missed: 1
+key: וייס יהודה, num missed: 1
+key: ברוך ניר, num missed: 2
+key: Dresden,Dresden Bautzen,Saxony,Germany, num missed: 4
+key: מיכאל בראייב, num missed: 1
+key: Berkach (Meiningen),<>,Thuringia,Germany, num missed: 1
+key: זייבל מיכאל, num missed: 1
+key: רובינשטיין אברהם יוסף, num missed: 2
+key: Detmold,Detmold,Lippe,Germany, num missed: 1
+key: קולומבו אניה, num missed: 1
+key: RKKA - Raboche-krestyanskaya Krasnaya Armiya, num missed: 9
+key: Panstwowe Muzeum Auschwitz-Birkenau, num missed: 1
+key: Odze Endrene, num missed: 1
+key: Wolfsberg,Camp,Germany, num missed: 1
+key: Elizabet Zborowski, num missed: 1
+key: וסרמן מלכה, num missed: 1
+key: Tysmienica,Ghetto, num missed: 1
+key: המאירי גינת, num missed: 1
+key: Rees,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: Shlomo Levy, num missed: 2
+key: Bella Golinetz, num missed: 1
+key: ברגר גרש, num missed: 1
+key: Aschenhausen,Weimar,Thuringia,Germany, num missed: 1
+key: Holocaust Center and Foundation, num missed: 1
+key: ספקטור נונה, num missed: 1
+key: Jonathan Herbert, num missed: 1
+key: Hadt?rt?neti Int?zet ?s M?zeum Hadt?rt?nelmi Lev?lt?ra, Budapest, Hungary, num missed: 1
+key: שפר אפרים ומרים, num missed: 1
+key: HET NEDERRLANDSCHE ROODE KRUIS, num missed: 1
+key: Themar,<>,Thuringia,Germany, num missed: 1
+key: צבי זילבר, num missed: 1
+key: זאב קליין, num missed: 1
+key: אנדרוסייר אדריאן, num missed: 1
+key: רות לרר, num missed: 1
+key: רוזה שרמן, num missed: 2
+key: א. גולדברג, num missed: 1
+key: Tchimino Shabetay, num missed: 1
+key: Ministry of social welfare, num missed: 1
+key: מירמוביץ' רות, num missed: 1
+key: קאופמן זאב, num missed: 1
+key: משה גולר, num missed: 1
+key: שור שמעון, num missed: 1
+key: יוסף סחיוורסחורצר, num missed: 1
+key: טמילה מרינובסקי, num missed: 1
+key: <>,<>,Brandenburg,Germany, num missed: 1
+key: גורביץ מיצסלב, num missed: 1
+key: Aken,Merseburg,Saxony Province,Germany, num missed: 1
+key: Latvian Association of Jewish Veterans of the Second World War, Riga, Latvia, num missed: 1
+key: FILIAL GOSUDARSTVENNOGO ARKHIVA GOMELSKOY OBLASTI V g. MOZYR, num missed: 1
+key: Muzeum SNP,97559, Banska Bystrica, Kapitulska 23, num missed: 1
+key: Golleschau,Camp, num missed: 1
+key: מוסקל מלבין, בריסל, בלגיה, num missed: 1
+key: היינזן וולפגנג, num missed: 1
+key: בק יהודית, num missed: 1
+key: Kassel,Kassel,Hesse-Nassau,Germany, num missed: 1
+key: מהרר אדית, num missed: 1
+key: Porrentruy,Detention Site,Switzerland, num missed: 2
+key: Wilno,Lukiszki,Detention Site,Poland, num missed: 2
+key: Troeglitz,Camp, num missed: 3
+key: Paula Jantilla, num missed: 1
+key: Freudenburg,Trier,Rhine Province,Germany, num missed: 1
+key: LATVIJAS VALSTS VESTURES ARHIVS - LATVIA, RIGA, num missed: 1
+key: איחוד הארגונים היהודיים ב-Beltsy, num missed: 1
+key: Anton Stapelkamp, num missed: 1
+key: Goerlitz,Liegnitz,Silesia (Lower),Germany, num missed: 2
+key: Schatz Odon, num missed: 1
+key: Winni Nachtwei, num missed: 1
+key: בית הוצאה לאור "Vydavnychiy dim", num missed: 1
+key: Langenfeld,Camp, num missed: 1
+key: Schwalbe V,Camp, num missed: 1
+key: סמדר צבי, num missed: 1
+key: טצנר אנה, num missed: 1
+key: לנגר שולה, num missed: 1
+key: משה טאובר, num missed: 2
+key: מאיר מאיר, num missed: 1
+key: <>,<>,Hohenzollern,Germany, num missed: 1
+key: Rabbi Moishe Leib Kolesnik, num missed: 30
+key: Braunschweig's Schillstrasse,Camp,Germany, num missed: 1
+key: טייץ ישיעהו, num missed: 1
+key: RUDASCHEWSKI ABRAM, num missed: 1
+key: גלש היינק, num missed: 1
+key: Wlodawa,Camp, num missed: 1
+key: INTERNATIONAL TRACING SERVICE, GENEVE, num missed: 1
+key: Tuvia Fridman, num missed: 1
+key: כהן דב, num missed: 1
+key: קצב ליליה, num missed: 1
+key: Catford Lotte, num missed: 1
+key: Regensburg,Niederbayern und Oberpfalz,Bavaria,Germany, num missed: 2
+key: Sajmiste,Camp, num missed: 1
+key: Pocking,Camp, num missed: 2
+key: Dunaevtsy, num missed: 1
+key: Zwickau,Zwickau,Saxony,Germany, num missed: 1
+key: Panstwowe Muzeum Oswiecim Brzezinka, num missed: 1
+key: Magyar Zsid? M?zeum ?s Lev?lt?r, Budapest, Hungary, num missed: 1
+key: קומיסריאט של צבא האדום, num missed: 1
+key: Sondershausen,Weimar,Thuringia,Germany, num missed: 1
+key: Altona,Hamburg,Hamburg,Germany, num missed: 1
+key: שכנר צבי, num missed: 1
+key: Ungar Lajos Budapest VII. Sip u. 12 Magyarorszag, num missed: 1
+key: Cherikov,Murder Site,Belorussia (USSR), num missed: 1
+key: קיים עותק בכתב יד, ראה פריטים נלוים, num missed: 1
+key: DCRSS - Documentation Center for the Research of Slovak Society, num missed: 1
+key: בן ציון גסלר, num missed: 1
+key: OTTO ROSMARIN, num missed: 1
+key: Tzelniker Yoyne, Lekhtman Roman, Lekhtman Yeva, num missed: 1
+key: יהודה וייסברגר, num missed: 1
+key: צרליכמן /ארגון יוצאי רייביץ, num missed: 1
+key: Dr. Josef Weiss, num missed: 1
+key: Miestny Narodny Vybor v Suranoch, num missed: 1
+key: Tudin,plot,Murder Site,Ukraine (USSR), num missed: 1
+key: הראל אלכס, num missed: 1
+key: פוראי יהודית, בודפשט, הונגריה, num missed: 1
+key: שליט אברהם, num missed: 1
+key: <>,<>,Silesia (Lower),Germany, num missed: 1
+key: GOSUDARSTVENNY ARKHIV IVANO-FRANKOVSKOY OBLASTI - UKRAINE, IVANO-FRANKOVSK, num missed: 1
+key: ד"ר סוהי ברברה, num missed: 1
+key: באמצעות ד"ר ואלק, num missed: 1
+key: יצחק ליפל, num missed: 1
+key: הלל אורבך הרצקע בארנשטיין צירל הוברמן יוסקע קוראנט ואבא קוראנט, num missed: 1
+key: הארכיון המרכזי הממלכתי של אוקראינה, num missed: 1
+key: Wieseck,<>,Hesse,Germany, num missed: 1
+key: Weigelt Andreas, num missed: 1
+key: Oederan,Chemnitz,Saxony,Germany, num missed: 1
+key: Heilbronn,Camp, num missed: 1
+key: הירשזון לדיסלב, num missed: 1
+key: ויממר אירנה, num missed: 1
+key: Rose Frederick, num missed: 1
+key: Muehlhausen,Erfurt,Thuringia,Germany, num missed: 1
+key: צ'בושניק נתן, num missed: 1
+key: ריינס מאיר, num missed: 1
+key: Debica,Camp, num missed: 1
+key: Syd Mandelbaum, num missed: 1
+key: Nuernberg,Camp, num missed: 1
+key: ישראל סמואלסון, num missed: 1
+key: גירשיק אסתר, num missed: 1
+key: Jewish community, num missed: 1
+key: Euhausen Klaus, num missed: 1
+key: כהן רוז, num missed: 1
+key: ליליאנה קיטאי, num missed: 1
+key: פרוייקט להנצחת היהדות רייניקנדורף, ברלין, num missed: 1
+key: הורנונג ב., ד"ר, num missed: 1
+key: Ellingen,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: Zeitz Kdo,Camp, num missed: 1
+key: קושנר ו., num missed: 1
+key: ארגון יוצאי Breslau בישראל, num missed: 1
+key: קרייזלר ברוניה, num missed: 1
+key: פוברז'בסקי פרידה, num missed: 1
+key: Ruhla,Weimar,Thuringia,Germany, num missed: 1
+key: Zschachwitz,Camp, num missed: 1
+key: Memmingen,Schwaben,Bavaria,Germany, num missed: 2
+key: אלגבה יוסף, num missed: 1
+key: רותי רגב קיבוץ אילון, num missed: 1
+key: וינברג רינה, num missed: 1
+key: קורט מכבי, num missed: 1
+key: ווזנר יעקב, num missed: 1
+key: חיים גרוס-Chaim Grosz, num missed: 1
+key: הולצמן עדה, num missed: 1
+key: הוגו הנדלר, num missed: 1
+key: הירש (צבי) מיזשטם, num missed: 1
+key: גרבר פיליפ, num missed: 1
+key: Zablotow Area,Sniatyn,Stanislawow,Poland, num missed: 1
+key: דב האלון ויהודה פלייסר, num missed: 1
+key: מאיר רוזנפלד, num missed: 1
+key: Kirszrot Michael, num missed: 1
+key: שקל גבריאל, num missed: 1
+key: Judino,village,Murder Site, num missed: 1
+key: אליעזר בלושטיין, num missed: 1
+key: יוליוס גרינברג, num missed: 1
+key: Lotte Grinspann, num missed: 1
+key: Burgau,Camp, num missed: 1
+key: רבהון זאב, קיבוץ לביא, num missed: 1
+key: Fuenfteichen,Camp, num missed: 2
+key: Federatia Uniunilor de Comunitati Evreesti, num missed: 1
+key: רוה אריק צבי, num missed: 1
+key: רדשקוביץ ויקטוריה, num missed: 1
+key: מושייב אברם - Mushiyev Abram, num missed: 1
+key: מקס ולפרט, num missed: 1
+key: MINISTERE DE L'ADMINISTRATION GENERALE ET DES PENSIONS, num missed: 1
+key: פרופ' שמחה עמנואל, num missed: 1
+key: Igor Shupak, num missed: 3
+key: ע"י מנדלבאום חנוך, num missed: 1
+key: עשת יעקב, num missed: 1
+key: Balf,Camp,Camp,Hungary, num missed: 3
+key: Zarzecze (Lwo),Camp, num missed: 1
+key: Neckargartach Heilbronn,Camp, num missed: 1
+key: Lueneburg,Lueneburg,Hanover,Germany, num missed: 1
+key: Gorodok, num missed: 2
+key: רות אוברבק, num missed: 1
+key: לוקס אירה, num missed: 1
+key: הני מיכאל, num missed: 1
+key: רוקח הילה, num missed: 1
+key: לובה מוסקו, num missed: 1
+key: הרשות להוצאה לאור של קרים, num missed: 1
+key: נובוזינץ ויחנה ואנטולי, num missed: 1
+key: Kultura, 3/173 1962, num missed: 1
+key: Kujawski Moshe Jakub, num missed: 1
+key: יונס חנן, num missed: 1
+key: רוטברט פבל, num missed: 1
+key: Gera,Weimar,Thuringia,Germany, num missed: 4
+key: הלברור אפרים, num missed: 1
+key: יוסף-נח הבר,, num missed: 1
+key: ארגון יוצאי כשאנוב בישראל, num missed: 1
+key: Targu Jiu,Camp, num missed: 1
+key: יהודית ביין, num missed: 1
+key: Kahla,Weimar,Thuringia,Germany, num missed: 1
+key: SOLDSTONE ADELE, num missed: 1
+key: DCRSS, num missed: 1
+key: לופשיס זאב, num missed: 1
+key: הנריק סולודוכה, num missed: 1
+key: פוגני ישראל, num missed: 1
+key: בית טרזין, num missed: 1
+key: בית המשפט, num missed: 1
+key: Halicz,Dniester,river,Murder Site,Poland, num missed: 1
+key: רדזינר אברהם אהרון, num missed: 2
+key: יעקב דרוקר, num missed: 1
+key: Gleiwitz,Oppeln,Silesia (Upper),Germany, num missed: 4
+key: Muzeum Gross-Rosen, 58-300 Walbrzych skr.poczt. 217, tel. ++48-74-8559007, fax ++48-74-8421594, num missed: 1
+key: Kishinev,Ghetto, num missed: 1
+key: Chernigov Area,Rashchevshchina,plot,Murder Site,Ukraine (USSR), num missed: 1
+key: FUNDACJA POLSKO-NIEMIECKIE POJEDNANIE, WARSZAWA, num missed: 2
+key: ויולה שלמה, num missed: 1
+key: צ'רלס ארון, num missed: 1
+key: ד"ר מרסל דולברג, num missed: 1
+key: ע"י נצר שלמה, num missed: 1
+key: Adler A, num missed: 1
+key: וולף שרה, num missed: 1
+key: ערית Ilok, num missed: 1
+key: Bremen,Camp,Germany, num missed: 2
+key: Vladimir Rubinstein, num missed: 1
+key: Buna Monowitz,Camp,Poland, num missed: 1
+key: יוספה וינר לב עמי, num missed: 1
+key: מיה ויעקב הרץ, num missed: 1
+key: Suczewan Jacques, num missed: 1
+key: GEDENKSTAETTE BUCHENWALD, num missed: 1
+key: SFATUL POPULAR AL ORASULUI IASI, num missed: 1
+key: Shmuel Koenig, num missed: 1
+key: Suhl,Erfurt,Saxony Province,Germany, num missed: 1
+key: אנה פרשקר, num missed: 2
+key: איזורי נינה, num missed: 1
+key: אדלר הנרי, num missed: 1
+key: אליעזר גוט, num missed: 1
+key: אן שגיא, num missed: 1
+key: זינמן ישראל ארגון יוצאי Miedzyrzecz, num missed: 1
+key: Gruppe Herbert Baum, num missed: 1
+key: Katyn,Murder Site, num missed: 1
+key: קונוכוב אברהם, num missed: 1
+key: צירולניק אפרים, num missed: 1
+key: ע"י ברוך חוה, num missed: 1
+key: Bad Salzungen,Weimar,Thuringia,Germany, num missed: 1
+key: Lwow,Ghetto, num missed: 1
+key: מרים הלפר, num missed: 1
+key: אנגל, num missed: 1
+key: ולדימיר רובינשטיין, num missed: 1
+key: Kisvarda,Ghetto, num missed: 1
+key: Neuendorf,<>,<>,Germany, num missed: 1
+key: Eva Mintsis, num missed: 2
+key: מאשה סמוליאר, num missed: 1
+key: ששון יהושע, num missed: 1
+key: Jens Aaron Guttstein, num missed: 2
+key: מילר יונה, num missed: 1
+key: Victor Bonjak, num missed: 2
+key: Henryk Shop, num missed: 1
+key: Gershon Elizabeth, num missed: 1
+key: פאני גלמן, num missed: 1
+key: הלפרן מרילה, num missed: 1
+key: Ed Baker, num missed: 1
+key: מנור גניה, num missed: 1
+key: <>,<>,Lippe,Germany, num missed: 2
+key: Yevgeniy Krasnik, num missed: 2
+key: דומאני איתן, num missed: 1
+key: אליונה גוליון, num missed: 6
+key: Michael Honey, num missed: 1
+key: Chodera Vaclav, num missed: 1
+key: ביכלר יהושוע, num missed: 1
+key: Lubny, num missed: 1
+key: Bobkova Maria, a verbal testimony., num missed: 1
+key: Laupheim,Stuttgart,Wuerttemberg,Germany, num missed: 2
+key: סלוטניצקה רוזליה באמצעות כץ מלכה, num missed: 1
+key: ורנר קורט, num missed: 1
+key: Heilsberg,Koenigsberg,East Prussia,Germany, num missed: 1
+key: קטיה רבינה, num missed: 12
+key: סמיון רויטר, num missed: 2
+key: דוד שלמה, num missed: 1
+key: אמה בוצ'קובקי, num missed: 1
+key: Semyon Glinnik, num missed: 2
+key: SOW HEIDI, LEONARDO-DA-VINCI OBERSCHULE, num missed: 1
+key: ע"י הלפרן נעמי, num missed: 2
+key: משפחת ברקוביץ*, num missed: 1
+key: Dolina,Jewish cemetery,Murder Site,Poland, num missed: 1
+key: מילר יהודה, num missed: 1
+key: Birkenfeld,Trier,Rhine Province,Germany, num missed: 1
+key: Jewish Kutno Group, num missed: 1
+key: Monastyrishche,town,Murder Site,Ukraine (USSR), num missed: 1
+key: Leipzig,Leipzig,Saxony,Germany, num missed: 5
+key: ראובני הלנה, num missed: 1
+key: Mechelen,Caserne Dossin,Camp,Belgium, num missed: 1
+key: Altmuehldorf,Oberbayern,Bavaria,Germany, num missed: 1
+key: Yakov Merenbach, num missed: 2
+key: Essen,Duesseldorf,Rhine Province,Germany, num missed: 4
+key: Kozin,Ghetto, num missed: 1
+key: מימון אטי, num missed: 1
+key: ארגון יוצאי כלם בישראל, num missed: 1
+key: Lucy Margules Leon Kronoisch Miriam Kunofsdy Sylvia Kroonisch Lena adler, num missed: 1
+key: חיה אדלמן, num missed: 1
+key: סוזן סובל, רחל קרניק, num missed: 1
+key: Vrablik J; Vrablik M, num missed: 1
+key: Swiss banks, num missed: 1
+key: Artemovsk,? 46,mine,Murder Site,Ukraine (USSR), num missed: 1
+key: רוזנגרטן, num missed: 1
+key: הקהילה היהודית, num missed: 1
+key: Grosskarben,Giessen,Hesse,Germany, num missed: 1
+key: Moyshe Leyb Kolesnik, num missed: 1
+key: ארגון יוצאי מוטלה בישראל, num missed: 2
+key: Dariusz Pawlos, num missed: 2
+key: Inna Gerasimova, num missed: 10
+key: Pechera,Camp, num missed: 4
+key: גולדשטיין אריה, num missed: 1
+key: Poninka,forest,Murder Site,Ukraine (USSR), num missed: 1
+key: KISSINGER MAX, num missed: 1
+key: Wetterfeld Oberpfalz,Niederbayern und Oberpfalz,Bavaria,Germany, num missed: 1
+key: בר-כוכבא נתפלי, num missed: 1
+key: Voronoye Area,Bakshiv Yar,plot,Murder Site,Ukraine (USSR), num missed: 1
+key: עינב אדית, num missed: 1
+key: פרקש אמיל, num missed: 1
+key: מנחם מרטין לאופר, num missed: 1
+key: לשכת מרשם התושבים ב-, num missed: 1
+key: מרי סויכר - Mery Soicher, num missed: 1
+key: י גולן*, num missed: 1
+key: Fuerstenstein,Camp,Germany, num missed: 1
+key: MUZEY ISTORII I KULTURY EVREEV BELARUSI - BELARUS, MINSK, num missed: 2
+key: נוסבאום אווה ורוניקה, num missed: 1
+key: Muehldorf,Camp,Germany, num missed: 1
+key: Gorodskoy otdel zdravookhraneniya, num missed: 1
+key: Szczedrzyk,Oppeln,Silesia (Upper),Germany, num missed: 2
+key: Kalnitsky Ber, num missed: 1
+key: Oederan,Camp, num missed: 2
+key: יעקב קורה - Yakov Kore, num missed: 1
+key: מרים וחנן ורבייצ'יק, num missed: 1
+key: יצחק שלום, num missed: 1
+key: פופר פ., num missed: 1
+key: Altenburg,Weimar,Thuringia,Germany, num missed: 4
+key: SANDAL MARIA, num missed: 1
+key: מרגלית כץ, num missed: 1
+key: Josef Weiss, num missed: 1
+key: בלה סירקוביץ, num missed: 1
+key: Sholom - Jewish Cultural Society, num missed: 1
+key: World Jewish Congress, num missed: 2
+key: יעקב אידלמן, num missed: 1
+key: ניב יצחק, num missed: 1
+key: ורד דיאמנט, num missed: 1
+key: Sara Rozenbaum, num missed: 1
+key: Halberstadt,Magdeburg,Saxony Province,Germany, num missed: 3
+key: נרדי עדנה, num missed: 1
+key: שימקה פינקלמן ופילו פרויד, num missed: 1
+key: יוסף לחמנוביץ, מאיר לחמנוביץ, שמואל ויזל, num missed: 1
+key: ארכיון נוה-איתן, num missed: 1
+key: ליבקינד מאיה, num missed: 1
+key: אפרים ויכסלפיש, num missed: 1
+key: נעמי תומר, num missed: 1
+key: גלס מיכה, num missed: 1
+key: הצלב האדום הבינלאומי, num missed: 1
+key: אייזל אסתר, num missed: 1
+key: מלי זונאבנד, num missed: 1
+key: NATIONAL ARCHIVES, USA, num missed: 1
+key: Eisfeld,Weimar,Thuringia,Germany, num missed: 1
+key: Alexander Popper, num missed: 1
+key: אברהם גרין, num missed: 1
+key: Roemhild,Weimar,Thuringia,Germany, num missed: 1
+key: Temple Sholom of West Essex, num missed: 1
+key: רוזליה צרנקוב, num missed: 1
+key: Duesseldorf,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: גרומר וולפגנג, num missed: 1
+key: אונגר יעל, num missed: 1
+key: שווארצמן מרדכי ופערל, num missed: 1
+key: John Fried, YIVO, num missed: 1
+key: רינת הלון, num missed: 1
+key: Emden,Aurich,Hanover,Germany, num missed: 1
+key: לשכת גיוס, num missed: 1
+key: Chisinau,Ghetto, num missed: 1
+key: צילה רבקין, num missed: 1
+key: מסרסקיה תמרה Masarskaya Tamara, num missed: 1
+key: צ'רנובסקי קלמן, num missed: 1
+key: Erich Mueller, num missed: 1
+key: Bernburg,Dessau,Anhalt,Germany, num missed: 1
+key: Israeli embassy in Moskow - through Shmuel Krakowski, num missed: 1
+key: Ewelina Panitch, num missed: 1
+key: Voronovitsa,Camp, num missed: 1
+key: Ruslan Baychurin, num missed: 1
+key: הלר ליאה, num missed: 1
+key: זילפן סמואל פרדריקסברג, דנמרק, num missed: 1
+key: Izbica,Camp, num missed: 9
+key: Guenter und dirk S. Lennartz, num missed: 1
+key: ChGK, num missed: 1
+key: דזיאלושינסקי ליאון, num missed: 1
+key: Schmalkalden,Kassel,Hesse-Nassau,Germany, num missed: 1
+key: דגני נתן, num missed: 1
+key: Rada Zydovskych Nabozenskych Obci v Krajich Ceskych, num missed: 1
+key: ולק יוסף, num missed: 1
+key: Blankenese,Hamburg,Hamburg,Germany, num missed: 1
+key: הר יצחק דויטש יצחק וייס יהושע, num missed: 1
+key: Brilovich Soloma, num missed: 1
+key: אבלס משה יד ושם, num missed: 1
+key: דרטלר, num missed: 1
+key: Arie Segelson, num missed: 1
+key: גדז' בטי יעקב, num missed: 1
+key: שמואל לאופר - Szmul Lajb Laufer, num missed: 1
+key: Krzeszow,Camp, num missed: 2
+key: Opary,Camp, num missed: 1
+key: מילבסקי מטביי, num missed: 1
+key: HENRYK SCHOP, num missed: 1
+key: ליבר מושקוביץ, num missed: 1
+key: LIETUVOS CENTRINIS VALSTYBINIS ARCHYVAS - LITHUANIA, VILNIUS, num missed: 1
+key: סנדלר אברהם, num missed: 1
+key: קגן יעקב נדולני קלרה, num missed: 1
+key: רובינשטיין אווה, num missed: 1
+key: ARHIVA CENTRULUI PENTRU STUDIUL ISTORIEI EVREILOR DIN ROMANIA, BUCURESTI, ROMANIA, num missed: 1
+key: MAIRIE DE VICHY, num missed: 1
+key: ג. ווייס (וינה), num missed: 1
+key: Pasilenai Area,forest,Murder Site,Lithuania, num missed: 1
+key: MINISTRE DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE, num missed: 1
+key: Bad Ems,Wiesbaden,Hesse-Nassau,Germany, num missed: 1
+key: Nisko,Camp, num missed: 3
+key: ראובן שטיינברג, num missed: 1
+key: Kamenz,Camp, num missed: 1
+key: Tzipolsky Irina, num missed: 1
+key: Weisskirchen,Camp, num missed: 1
+key: ארגון יוצאי ביאליסטוק והסביבה, num missed: 1
+key: בלאו ברוניה, num missed: 1
+key: יקותיאל ריבקין, num missed: 1
+key: Lutsk,Luck,Wolyn,Poland, num missed: 1
+key: הקהילה היהודית של Yevpatoriya, num missed: 1
+key: Pepeny, num missed: 2
+key: Mandlbaum Zoran, Jevrejska zajednica Bosne i Hercegovine, Jevrejska opstina Mostar, BiH, num missed: 1
+key: Jose Klingbeil, num missed: 1
+key: Sielemann Jurgen, num missed: 1
+key: הוזר פאול, num missed: 1
+key: גרה יהודה, num missed: 1
+key: הופר רולנד, num missed: 1
+key: Mathausen,Camp, num missed: 1
+key: פטר יפימוב, num missed: 1
+key: קהילה יהודית בברנו, num missed: 1
+key: אמזל גאורג, num missed: 1
+key: Forli,Camp,Italy, num missed: 1
+key: ע"י פטרן גילה, num missed: 2
+key: Farberman Alexander, num missed: 1
+key: Chernigov,city,Murder Site,Ukraine (USSR), num missed: 4
+key: Kitzingen,Mainfranken,Bavaria,Germany, num missed: 4
+key: משרד הפנים, num missed: 1
+key: שושנה גולדשטיין, num missed: 1
+key: Alena Golion, num missed: 6
+key: הרשקוביץ ליל, num missed: 1
+key: קייסר קלאודיה*, num missed: 1
+key: Eisenberg Thueringen,Weimar,Thuringia,Germany, num missed: 1
+key: זאב גלר*, num missed: 1
+key: Siennicki Jean-Paul, num missed: 1
+key: אברהם טל, num missed: 1
+key: Smolensk, num missed: 1
+key: Yaltushkov, num missed: 1
+key: Halle an der Saale,Merseburg,Saxony Province,Germany, num missed: 1
+key: Kochendorf,Camp, num missed: 2
+key: שקד יוסף, num missed: 1
+key: רבינוביץ גרגרורי Rabinovich Grygory, num missed: 1
+key: Szczuczyn,field,Murder Site,Poland, num missed: 1
+key: Struma,Death Ship, num missed: 7
+key: Jadovno ( Na Velebitu ),Camp,Yugoslavia, num missed: 1
+key: שפילמן אורי, num missed: 1
+key: רוזין אדוארד, num missed: 1
+key: Novozlatopol,building,Murder Site,Ukraine (USSR), num missed: 1
+key: Fossoli di Carpi,Camp, num missed: 2
+key: Bruchanskaya Stera, num missed: 1
+key: כרמון מרים, שביט טובה, num missed: 1
+key: פריד יוסף, num missed: 1
+key: Osterholz Scharmbeck,<>,Hanover,Germany, num missed: 2
+key: שחן אביגדור, num missed: 1
+key: אורבך יעקב, num missed: 1
+key: Salzwedel,Camp, num missed: 1
+key: פולקו מריו, num missed: 1
+key: Schotten,Giessen,Hesse,Germany, num missed: 2
+key: Wuest Rolf, num missed: 1
+key: Aurich,Aurich,Hanover,Germany, num missed: 1
+key: Gotha,Weimar,Thuringia,Germany, num missed: 1
+key: גימפלסון קטרינה, num missed: 1
+key: משה פרידמן, num missed: 2
+key: Nelya Boundarenko, num missed: 1
+key: Apolda,Weimar,Thuringia,Germany, num missed: 1
+key: שפירא בוריס, num missed: 1
+key: Koethen,Dessau,Anhalt,Germany, num missed: 1
+key: ע"י יונין מאשה, num missed: 2
+key: ליבשיץ יפים, num missed: 2
+key: רביץ אירנה, num missed: 1
+key: מקאי יהודית, num missed: 1
+key: רב קולסניק, num missed: 30
+key: Kreis Waldeck-Frankenberg,Kassel,Hesse-Nassau,Germany, num missed: 1
+key: Hunsrueck,Kassel,Hesse-Nassau,Germany, num missed: 2
+key: Garry Faif, num missed: 1
+key: Longwy Thil,Camp, num missed: 2
+key: Barby,Magdeburg,Saxony Province,Germany, num missed: 1
+key: מתוסוב תרצה, num missed: 1
+key: Worniany Area,vicinity,Murder Site,Poland, num missed: 2
+key: אזרחי רות, num missed: 1
+key: Yefim Klots, num missed: 1
+key: Poessneck,Weimar,Thuringia,Germany, num missed: 1
+key: <>,<>,Rhine Province,Germany, num missed: 1
+key: גרמן י., num missed: 1
+key: Gupalovka,Gulyay Pole,Zaporozhye,Ukraine (USSR), num missed: 1
+key: Starosta obce Bol Baco Pavol, num missed: 1
+key: יוסף שולמן, num missed: 1
+key: דימנט לאה, num missed: 1
+key: Aranovich Boris, num missed: 1
+key: Geislingen,Camp, num missed: 1
+key: Raisa Gertopskaya, num missed: 2
+key: לרנאו אלישבע, num missed: 1
+key: רינגולד דוד, num missed: 1
+key: International Tracing Service, num missed: 7
+key: הירש פריירמן, מנהל "חסד אושר", num missed: 1
+key: יעקב רודיקה, num missed: 1
+key: הדרי מרים, num missed: 1
+key: Novaky,Camp, num missed: 2
+key: שפיק ברנרד, num missed: 1
+key: שטרנברג ישראל, num missed: 1
+key: La Chaux de Fonds,Detention Site,Switzerland, num missed: 2
+key: GOSUDARSTVENNY ARKHIV ORLOVSKOY OBLASTI - RUSSIA, OREL, num missed: 1
+key: COMUNITA ISRAELITICA, num missed: 1
+key: Sosenki,forest,Murder Site, num missed: 3
+key: ד''ר שושנה שטיפטל, num missed: 1
+key: בלינדרמן שרה, num missed: 1
+key: Arolsen,Kassel,Hesse-Nassau,Germany, num missed: 2
+key: דומן לסלו, num missed: 1
+key: פירסט נפתלי, num missed: 1
+key: Echterdingen,Camp, num missed: 2
+key: Biberach an der Riss,Stuttgart,Wuerttemberg,Germany, num missed: 1
+key: צבי פלורנטל, num missed: 1
+key: ARCHIWUM PANSTWOWE W KRAKOWIE, num missed: 1
+key: פירה קוגן, num missed: 1
+key: Doropiejewicze, num missed: 1
+key: שניידמן מרים, num missed: 1
+key: Archiw Sad Grodzki, num missed: 1
+key: Bilashki Area,Murder Site,Ukraine (USSR), num missed: 1
+key: מנדלר זאב, num missed: 1
+key: עריית Wels, num missed: 1
+key: Ministerul Afacerilor Inrerne, Lagarul de internati Politici, num missed: 1
+key: ARKHIV GOSUDARSTVENNOY BEZOPASNOSTI I INFORMATSIONNOY SLUZHBY RESPUBLIKI MOLDOVA - MOLDOVA KISHINEV, num missed: 4
+key: דושקין חזר, num missed: 1
+key: Geisenheim,Camp, num missed: 1
+key: חנוך דניאל, num missed: 1
+key: Paul Dostert Directeur Gouvernement du Grand-duche Paul Dostert Directeur Gouvernement du Grand-duchet, num missed: 1
+key: פומפן אברהם, num missed: 1
+key: Bergen Belsen Memorial, num missed: 1
+key: Druette,Camp, num missed: 2
+key: National Library of Israel (NLI), num missed: 1
+key: וולך רבקה, num missed: 1
+key: A Hajduboszormenyi autonom ortodox izraelita hitkozseg, num missed: 1
+key: יעקבי שלמה, num missed: 1
+key: פולינה רדבוג'ו, num missed: 1
+key: Bor,Camp,Yugoslavia, num missed: 2
+key: שוורץ ארמון, num missed: 1
+key: Korsun Shevchenkovskiy Area,Yar Kushchayevka,ravine,Murder Site,Ukraine (USSR), num missed: 1
+key: בקעת הקהילות, num missed: 1
+key: ARCHIWUM PANSTWOWE W LUBLINIE, LUBLIN, POLAND, num missed: 1
+key: שמידט יוחנס, num missed: 1
+key: Tarbut - Network of schools and Hebrew cultural institutions in Eastern Europe, num missed: 2
+key: מרכז תרבותי חינוכי ע"ש Drozdovich, num missed: 1
+key: Schlieben,Leipzig,Saxony,Germany, num missed: 1
+key: Brest,Ghetto, num missed: 1
+key: Karoly Kengyel, num missed: 1
+key: גיפמן חיים, num missed: 1
+key: רות ריימר Ruth Reimer*, num missed: 1
+key: ALTE SYNAGOGE ESSEN, num missed: 1
+key: Byten,forest,Murder Site, num missed: 1
+key: Rothenkirchen,Kassel,Hesse-Nassau,Germany, num missed: 3
+key: Hillersleben Camp,DP CAMP,Germany, num missed: 1
+key: פוקס נינל, num missed: 1
+key: אינג'. א. קאראנסה, אמסטרדם, הולנד, num missed: 1
+key: Saint Antoine,Detention Site,Switzerland, num missed: 2
+key: Krasnopolye Area,cemetery,Murder Site,Belorussia (USSR), num missed: 1
+key: Riese Fuerstenstein,Camp,Germany, num missed: 1
+key: ARCHIWUM PANSTWOWEGO MUZEUM W OSWIECIMIU - APMO, OSWIECIM, POLAND, num missed: 2
+key: Gad Hofmann, num missed: 1
+key: Krasnopolye Area,Sovkhoz Kalinina,Soviet farm,Murder Site,Belorussia (USSR), num missed: 1
+key: בוריס בנדרסקי, num missed: 1
+key: Salzgitter,Braunschweig,Brunswick,Germany, num missed: 2
+key: שמעונוביץ משה, num missed: 1
+key: רבה חיה, num missed: 1
+key: Rehmsdorf,Camp,Germany, num missed: 3
+key: אינוטייב סימיון, אינוטייב אליזבטה, קול ישראל, תל-אביב, num missed: 1
+key: Towarzystwo Przyjaciol Hojnowski. Okregowa Komisja Badania Zbrodni Hitlerowskich w Bialymstoku. Komitet Wojewodzki P.Z.P.R. w Bialymstoku., num missed: 1
+key: רות זעירא - Ruth Zeira, num missed: 1
+key: Ostroushki Area ,ravine,Murder Site,Ukraine (USSR), num missed: 1
+key: דוידור פסיה, num missed: 1
+key: הקומיסריון הצבאי, num missed: 1
+key: TSENTRALNY GOSUDARSTVENNY ARKHIV MINISTERSTVA OBORONY ROSSIYSKOY FEDERATSII - RUSSIA, PODOLSK, num missed: 2
+key: לוסטיג מרדכי ליבנר ויליאם, num missed: 1
+key: גודסהלק לואיס, num missed: 1
+key: Pliskov,village,Murder Site,Ukraine (USSR), num missed: 1
+key: ורנקוב אברהם, num missed: 1
+key: זלץ דוד, num missed: 1
+key: Harburg,Lueneburg,Hanover,Germany, num missed: 1
+key: פוקס דוד, num missed: 1
+key: Joseph Polaniecki, num missed: 1
+key: Starachowice,Camp, num missed: 1
+key: רושקו ישראל, num missed: 1
+key: Vyhne,Camp, num missed: 1
+key: Jan Laury, num missed: 2
+key: Malines,Caserne Dossin,Camp,Belgium, num missed: 7
+key: ארכיון בית טרזין, num missed: 1
+key: Heiligenstadt,Erfurt,Saxony Province,Germany, num missed: 1
+key: דני וסלי, num missed: 1
+key: זוברמן יחיאל, num missed: 1
+key: Naum Sandorski, num missed: 1
+key: Egeln,Magdeburg,Saxony Province,Germany, num missed: 1
+key: אלה לוקר, num missed: 1
+key: Kurzbach,Camp, num missed: 1
+key: פוקס לודוויג, num missed: 2
+key: Vysokii Polk Area,field,Murder Site,Belorussia (USSR), num missed: 1
+key: פרינץ גרשון, num missed: 1
+key: BUNDES- POLIZEIBIRETTION WIEN, num missed: 1
+key: Fergusson Ann, num missed: 1
+key: ZIDOVSKA NABOZENSKA OBEC V BRNE, num missed: 1
+key: גילברשטיין מיכאל, num missed: 1
+key: אברהם שנהב, num missed: 1
+key: ע"י קליימן יהודית, num missed: 1
+key: Talalayevka Area,vicinity,Murder Site,Ukraine (USSR), num missed: 1
+key: GOSUDARSTVENNY ARKHIV BRESTSKOY OBLASTI - BELARUS, BREST, num missed: 1
+key: גב' פורשנר, num missed: 1
+key: Katja Rabina, num missed: 44
+key: Ponary Area,Murder Site,Poland, num missed: 2
+key: גרציה ניסן, num missed: 1
+key: אריה דורון, num missed: 1
+key: מעיין קלרה, num missed: 1
+key: Niedersaechsische Landesverwaltungsamt,Hannover, num missed: 1
+key: Skarzysko Kamienna,Camp, num missed: 2
+key: Prof. Alfred Konieczny, num missed: 1
+key: MAAS JEFFREY, num missed: 1
+key: יהושע ביכלר, num missed: 3
+key: Talka, num missed: 1
+key: מילר לוטר, ברלין, גרמניה, num missed: 1
+key: Dirk Steen, num missed: 1
+key: Filipsky Lidia, num missed: 1
+key: שוורץ פרידה, num missed: 1
+key: גוטר משה, num missed: 1
+key: Jewish Confederation of Ukraine, num missed: 2
+key: יקותיאל צוליך, num missed: 1
+key: עיתון "סלובו" שמוצא לאור על-ידי הקהילה היהודית של Melitopol, num missed: 1
+key: Cabanas Leticia, num missed: 1
+key: Pisarkiewicz Miroslaw, num missed: 2
+key: Dariusz Paw?osz, num missed: 1
+key: זלוטניקוב, מושקוביץ, num missed: 1
+key: Zaslavski Isaak, num missed: 1
+key: MINISTRE DES ANCIENS COMBATANTS, num missed: 1
+key: יוסף לביא, num missed: 1
+key: רזניק מירה, num missed: 1
+key: Semyon Bentzianov, num missed: 1
+key: Wernigerode,<>,Saxony,Germany, num missed: 1
+key: Avraam, num missed: 2
+key: ארגון יוצאי בלז, num missed: 1
+key: גרין אברהם, num missed: 1
+key: ג'ונט, num missed: 1
+key: מועצת העיר YALTA ב- קרים, num missed: 1
+key: Novy Bykov,Bobrovitsa,Chernigov,Ukraine (USSR), num missed: 1
+key: פרופ דניאל וגנר, num missed: 1
+key: Kreuzburg,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: ארניאס שמחה, num missed: 1
+key: מוזיאון יהודי, num missed: 1
+key: Amberg,Niederbayern und Oberpfalz,Bavaria,Germany, num missed: 1
+key: אלי דרור, num missed: 1
+key: יהודית שיפריס, num missed: 1
+key: פרסידסקי ראיסה, num missed: 1
+key: וולף ת.ד 3 כפר חבד, num missed: 1
+key: קליין אריה, num missed: 1
+key: Schwarzheide,Camp, num missed: 3
+key: מרים שטיינר, num missed: 1
+key: Lengenfeld,<>,<>,Germany, num missed: 1
+key: Ray Nadler, num missed: 1
+key: הורונצ'יק אברהם, num missed: 1
+key: ראובן זולדן, num missed: 1
+key: פלדמן פליקס, האנובר, גרמניה, num missed: 1
+key: Burstin Marcel, num missed: 1
+key: Hennweiler,Trier,Rhine Province,Germany, num missed: 1
+key: Pavle Sosberger, num missed: 1
+key: Oppeln,Oppeln,Silesia (Upper),Germany, num missed: 2
+key: מרגוליס מיכאל, num missed: 1
+key: ELKIS FIRA, num missed: 1
+key: יוסף ילין, num missed: 2
+key: זלדה לוי, num missed: 1
+key: סמיון מיכאילוב, num missed: 2
+key: Leczyca,Ghetto, num missed: 2
+key: Ichenhausen,Schwaben,Bavaria,Germany, num missed: 2
+key: ZIDOVSKE MUZEUM V PRAZE, PRAHA, CZECH REPUBLIC, num missed: 1
+key: יעל נויבירט - (Neuwirth (Noy, num missed: 1
+key: ליפשיץ אפרים, num missed: 1
+key: רותי סולומון, num missed: 1
+key: Horodenka,Ghetto, num missed: 1
+key: Sara Berkowitz, num missed: 2
+key: Bruennlitz,Camp, num missed: 1
+key: CENTRUL PENTRU STUDIUL ISTORIEI EVREILOR DIN ROMANIA, num missed: 1
+key: גוטניק סופיה, num missed: 1
+key: אברהם שרה, num missed: 1
+key: Colditz,Camp, num missed: 2
+key: פליקס גמר, num missed: 1
+key: רייכל לאה, num missed: 1
+key: לוי דוד, num missed: 1
+key: שוואב שלום, num missed: 1
+key: אנדר יעקב, num missed: 1
+key: אינה גרסימובה, num missed: 25
+key: <>,<>,Wuerttemberg,Germany, num missed: 1
+key: מאיר שוורץ, num missed: 1
+key: וולדימיר לפשיץ, num missed: 1
+key: Rotenburg an der Fulda,Kassel,Hesse-Nassau,Germany, num missed: 3
+key: Ewa Blyskowska-Godefroid, num missed: 1
+key: קליינברג שולה, num missed: 1
+key: STATNI OKRESNI ARCHIV, KLADNO, CZECH REPUBLIC, num missed: 1
+key: וינרובסקי צילה, num missed: 1
+key: מאיה ליפשיץ, num missed: 1
+key: אליצקה ינינה, num missed: 1
+key: BEZIRKSAMT FUER WIEDERGUTMACHUNG, num missed: 1
+key: Serge Klarsfeld, num missed: 9
+key: כהן ציפורה, num missed: 1
+key: Farsleben,Magdeburg,Saxony Province,Germany, num missed: 1
+key: Aleinikov Boris, num missed: 1
+key: ארכיון המחוזי, num missed: 1
+key: Israel Sonder, num missed: 1
+key: פטרן גילה, num missed: 1
+key: סילקיס טמרה, num missed: 1
+key: וירג תרז, קרדוש פיטר, בודפשט, הונגריה, num missed: 1
+key: פרדקוף פאולה, num missed: 1
+key: מירי גרשוני, num missed: 1
+key: הסוכנות היהודית, num missed: 1
+key: קוגן יבגניה, num missed: 1
+key: Gorodenka,Ghetto, num missed: 2
+key: Helge Hein, num missed: 1
+key: פיקרביץ יעקב, num missed: 1
+key: German embassy in Israel, num missed: 1
+key: מרבך ריה, num missed: 1
+key: ZYDOWSKI INSTYTUT HISTORYCZNY - ZIH, WARSZAWA, POLAND, num missed: 3
+key: Ruchheim,Pfalz,Bavaria,Germany, num missed: 1
+key: צוות "פושוק" (חיפוש) של בה''ס תיכון מס' 8, תלמידי כיתות 10-11, num missed: 1
+key: מורגנבסר הילדה, num missed: 2
+key: ברגבאום י, num missed: 1
+key: מרכז ליודאיקה באוניברסיטת Riga, num missed: 1
+key: Majdan Tatarski,Ghetto,Poland, num missed: 2
+key: Kodyma,Murder Site, num missed: 1
+key: Hirsch Ralph B, num missed: 1
+key: אירני סילביה, num missed: 1
+key: Benjamin Sklarz, num missed: 1
+key: A. Adler, num missed: 1
+key: בלינסקי איליה, num missed: 1
+key: <>,<>,Niedersachsen,Germany, num missed: 1
+key: Wygoda,Ghetto,Poland, num missed: 3
+key: יוסף פלוטק, num missed: 1
+key: מורדכי לוסטיג, num missed: 2
+key: רונין מיכאיל, num missed: 1
+key: קטי הירשטל, num missed: 1
+key: יעל פישר, num missed: 1
+key: Liebenau,Camp, num missed: 1
+key: מנדלבואם ח., num missed: 1
+key: קלמן אודס, num missed: 2
+key: שמריהו לב-ארי לטשיבר, num missed: 1
+key: אלקושי רות, num missed: 1
+key: Hasag,Camp, num missed: 2
+key: Asia Voronova, num missed: 1
+key: אבי הורוביץ, num missed: 1
+key: סטנישבסקי דב, num missed: 1
+key: שפר אברהם, num missed: 1
+key: Israel Kultusgemeinde Wien, num missed: 1
+key: MAGISTRAT DER STADT WIEN, num missed: 1
+key: Iosef Liberman, num missed: 1
+key: אלדן מיכאל, num missed: 1
+key: Waltraut Zachhuber, num missed: 2
+key: AMT DER WIENER LANDESREGIERUNG, num missed: 1
+key: גיאורג ווייס, וינה, num missed: 1
+key: Arkady Monastyrsky, num missed: 2
+key: Iosif Bursuk, num missed: 1
+key: אלעזר גיטדינר, num missed: 1
+key: Freiburg,<>,<>,Germany, num missed: 1
+key: אברם פרפל, num missed: 1
+key: זימרת משה, num missed: 1
+key: וטשטיין ויקטור, num missed: 1
+key: פרידמן מסיה, num missed: 1
+key: נאום פוליאק, num missed: 1
+key: אפרים רוזנצוויג, num missed: 1
+key: ולדימיר לומר, num missed: 1
+key: מנחם מריו אסטרולוגו, num missed: 1
+key: ריבלין ברכה, num missed: 2
+key: Johanngeorgenstadt,Zwickau,Saxony,Germany, num missed: 1
+key: יד ושם, num missed: 4
+key: טל דוד, num missed: 1
+key: Sabac,Camp, num missed: 2
+key: קלפה מירי, num missed: 1
+key: ביברשטיין מרדכי, num missed: 1
+key: באמצעות שגרירות ישראל בבודפשט, num missed: 1
+key: ריכטר מיכאל, num missed: 1
+key: Mszana Dolna,Murder Site, num missed: 1
+key: ד"ר אליש יוסף, num missed: 1
+key: גורין וולף, num missed: 1
+key: Chemnitz,Chemnitz,Saxony,Germany, num missed: 3
+key: Daniel Lowe, num missed: 1
+key: Chernyanka,Camp,Russia (USSR), num missed: 1
+key: Yevgeni Zelikman, num missed: 1
+key: שטרן שאול ולטר, num missed: 1
+key: Dessau,Camp, num missed: 1
+key: Zeitz Elster,Merseburg,Saxony Province,Germany, num missed: 1
+key: Zaslavl Area,Zelenoye,railroad station,Murder Site,Belorussia (USSR), num missed: 1
+key: ברודסקי סימון, num missed: 1
+key: רות דרור, num missed: 1
+key: Flatow,Grenzmark Posen-Westpreussen,Pomerania,Germany, num missed: 1
+key: Sopronbanfalva Camp,Camp,Hungary, num missed: 1
+key: CENTRAL ARCHIVES FOR THE HISTORY OF THE JEWISH PEOPLE, JERUSALEM, num missed: 1
+key: Elaine Gerstler, num missed: 1
+key: Goerlitz,Camp, num missed: 1
+key: REICHMAN ARNOLD, num missed: 1
+key: שרה נרצי, num missed: 1
+key: DOKUMENTACNE CENTRUM PRE VYSKUM SLOVENSKEJ SPOLECNOSTI, BRATISLAVA, num missed: 1
+key: טרבה מיליקה, num missed: 1
+key: ספוז'ניקוב פאיה, num missed: 1
+key: INFORMATION OFFICE FOR AUSTRIAN JEWS, num missed: 1
+key: Watenstedt,Camp, num missed: 1
+key: Giessen,Giessen,Hesse,Germany, num missed: 2
+key: Natzweiler,Camp, num missed: 3
+key: Melk,Camp, num missed: 2
+key: יוסף וייסלר, num missed: 1
+key: Pyskowice,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: שליבך שמואל, num missed: 1
+key: Baskina Bela, num missed: 1
+key: Romagna Geo Region,<>,Emilia,Italy, num missed: 1
+key: Shchors Area,forest,Murder Site,Ukraine (USSR), num missed: 1
+key: Flossenburg,Camp, num missed: 2
+key: פרידמן לאה, num missed: 1
+key: Bremen,Bremen,Bremen,Germany, num missed: 2
+key: איליה ז'יטומירסקי, num missed: 1
+key: Troebitz,Frankfurt,Brandenburg,Germany, num missed: 10
+key: יווילב זכר, num missed: 1
+key: ע"י אבן אליעזר, יו"ר ארגון וצאי הונגריה, num missed: 1
+key: אברהם שלמה פוקטש, num missed: 2
+key: פרידמן-מוריס מרים, פומונה, ניו-יורק, ארה"ב, num missed: 1
+key: Borovka,village,Murder Site,Ukraine (USSR), num missed: 1
+key: Empel,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: Asnovits Natan, num missed: 1
+key: נאוה כהן, num missed: 1
+key: מרדכי קאול, פתח-תקוה, num missed: 1
+key: Gunskirchen,Camp, num missed: 2
+key: דקר יוסף, עו"ד, יו"ר ארגון יוצאי לובלין בישראל, num missed: 1
+key: יד ושם (קומפקטוס), num missed: 1
+key: Steiskal Jan, num missed: 1
+key: קרונר אורסולה, num missed: 1
+key: Schleusingen,Erfurt,Saxony Province,Germany, num missed: 1
+key: Nuernberg,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: Gelnhausen,Kassel,Hesse-Nassau,Germany, num missed: 3
+key: Plaut Gilles, num missed: 1
+key: רות רוטנברג, num missed: 1
+key: Kulmbach,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 2
+key: Quedlinburg,Magdeburg,Saxony Province,Germany, num missed: 1
+key: היכל המשות, num missed: 1
+key: פניצ'ל יעקב, num missed: 1
+key: משרד החוץ, num missed: 1
+key: Gedenkstaette und Museum Sachsenhausen, num missed: 1
+key: Sfartz Jean, num missed: 1
+key: דרורי חנה, num missed: 1
+key: יוליוס מרגולינסקי, num missed: 1
+key: רות תמיר, num missed: 1
+key: Aschersleben,Magdeburg,Saxony Province,Germany, num missed: 1
+key: שולמית קליין, num missed: 1
+key: Rabbi Norman R. Patz, num missed: 1
+key: רפי יוסופוב, num missed: 1
+key: Mairie du IV Arrondissement, num missed: 1
+key: בן-דוד יצחק, num missed: 1
+key: מנדל אירנה, num missed: 1
+key: ז'בנר מחלה, num missed: 1
+key: הימן יהושע, num missed: 1
+key: חיה ריבן, num missed: 1
+key: חיים מלך, num missed: 1
+key: משה עץ-חיים גרינוולד, num missed: 1
+key: כהן מריון ר., num missed: 1
+key: .SUCHY BARBARA, DR, num missed: 1
+key: צילה רבינוביץ', num missed: 1
+key: התאחדות של יוצאי Namangan, num missed: 1
+key: עמית עזרא, num missed: 1
+key: אריה קאופמן, num missed: 1
+key: ישראל שולמית, num missed: 1
+key: Erfurt,Erfurt,Saxony Province,Germany, num missed: 2
+key: אונגר ברכה, num missed: 1
+key: ארגון יוצאי GrodekJagiellonski, num missed: 1
+key: Semenovka Area,forest,Murder Site,Ukraine (USSR), num missed: 1
+key: סנאטהורסט פ., מוזיאון "אוד אווברסהי, רוטרדם, הולנד, num missed: 1
+key: אורי קלט, num missed: 1
+key: Bershad,Ghetto, num missed: 1
+key: יעקבזון מסה, num missed: 1
+key: JUEDISCHE GEMEINDE ZU BERLIN, num missed: 1
+key: איזבלה לאקה - Isabela Leca, num missed: 1
+key: Bytom,Oppeln,Silesia (Upper),Germany, num missed: 2
+key: וולף מקס, num missed: 1
+key: מייזלר יוסף, num missed: 1
+key: Popkov Alexander, num missed: 2
+key: Lagow,Ghetto, num missed: 1
+key: Elsnig,Camp, num missed: 1
+key: Movshovich Eugen, Dr, num missed: 1
+key: Holocaust Center, num missed: 1
+key: Saalfeld,Weimar,Thuringia,Germany, num missed: 1
+key: הקהילה היהודית ב-Bistrita, num missed: 1
+key: נויברגר, num missed: 1
+key: Rhaunen,Trier,Rhine Province,Germany, num missed: 2
+key: שלח יצחק, num missed: 1
+key: פליישר יהודה, num missed: 1
+key: Sonneberg,<>,Thuringia,Germany, num missed: 1
+key: בורנשטיין חיים, num missed: 1
+key: ד"ר גאורג ווייס (וינה), num missed: 1
+key: Dmitri Silbermann, num missed: 1
+key: צ'רני סוניה, num missed: 1
+key: Huepstedt ueber Dingelstadt Eichsfeld,Erfurt,Saxony Province,Germany, num missed: 1
+key: רודולף בער, num missed: 1
+key: ARCHIWUM PANSTWOWE W PLOCKU, ODDZIAL W LECZYCY, LECZYCA, POLAND, num missed: 1
+key: Kempen,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: שיקלוש אילנה, num missed: 1
+key: נצר אסתר, num missed: 1
+key: משה צימקינד, num missed: 1
+key: חנניה סלומון, num missed: 1
+key: Rada zidovskych nabozenskych obci v zemich ceske a moravskoselezske, num missed: 1
+key: אדלר משה, num missed: 1
+key: Ernst-Goergens Birgit, Goergens Harald, num missed: 1
+key: צודיק ריטוב, num missed: 1
+key: הקהילה היהודית ב-Brovary, num missed: 1
+key: Ruslan Baichurin, num missed: 2
+key: Parichi, num missed: 1
+key: Sonnenstein,Camp,Germany, num missed: 1
+key: קלוד סטארק, צרפת, num missed: 1
+key: לוקר צבי, num missed: 1
+key: Centre Regional ou Departemental d'Incorporation F.F.I, num missed: 1
+key: יוזף סוקול, באמצעות א. קולקה, num missed: 1
+key: רונן גדעון, num missed: 2
+key: פוסטינסקי, num missed: 1
+key: Reuven Brodsky, num missed: 2
+key: יעוז תמרה, num missed: 1
+key: דר' איליה אלטמן, num missed: 8
+key: מרכז קהילתי יהודי "חסד שלמה", num missed: 2
+key: AMTSGERICHT HAMBURG, num missed: 1
+key: Marion Scheinberger, num missed: 1
+key: אייזלר מאיר, num missed: 1
+key: ארגון יוצאי אוזיראן והסביבה בישראל, num missed: 1
+key: Sobol Ilya, num missed: 1
+key: קופנהגן יעקב, num missed: 1
+key: Okregowa Komisja BZH Institutu Pami?ci Narodowej, num missed: 1
+key: רות ברט, num missed: 1
+key: OKREGOWA KOMISJA BADANIA ZBRODNI HITLEROWSKICH - OKBZH, POZNAN, POLAND, num missed: 1
+key: Hohenstein Ernstthal,Camp, num missed: 1
+key: פומס יעקב, num missed: 1
+key: SCHNEIDER GERTRUDE, num missed: 1
+key: משה ליברמן, num missed: 1
+key: ע"י לזוביק יעקב, num missed: 1
+key: Solomon Mangel, num missed: 1
+key: ארגון יוצאי פולין, num missed: 1
+key: Allach,Camp,Germany, num missed: 1
+key: Miestny narodny vybor v Nemeckej Porube, okres Sobrance, num missed: 1
+key: Dr. Zoltan Klar, num missed: 1
+key: Bad Liebenstein,Weimar,Thuringia,Germany, num missed: 1
+key: Braunschweig,Braunschweig,Brunswick,Germany, num missed: 1
+key: Fulda,Kassel,Hesse-Nassau,Germany, num missed: 2
+key: אנה פוקס לבית בקמן, num missed: 1
+key: שדלר יחיאל, num missed: 1
+key: דויטש יצחק, num missed: 1
+key: מגדה גיפס, num missed: 2
+key: Goodman Yakov, num missed: 1
+key: ספירה הנרי, num missed: 1
+key: אופנהיימר יהודה, num missed: 1
+key: וייס בילא שרה, num missed: 1
+key: Grosz Zoltan, num missed: 1
+key: דדיה פרוספר, num missed: 1
+key: Ozarintsy,cemetery,Murder Site,Ukraine (USSR), num missed: 1
+key: Djakovo,Camp,Yugoslavia, num missed: 1
+key: Sinzig,Koeln,Rhine Province,Germany, num missed: 1
+key: דוב (בלה) מילר, num missed: 1
+key: צייטלין שמואל, num missed: 1
+key: GOSUDARSTVENNY ARKHIV LVOVSKOY OBLASTI - UKRAINE, LVOV, num missed: 1
+key: נוסבאום ולטר, num missed: 1
+key: Yevminka,Kozelets,Chernigov,Ukraine (USSR), num missed: 1
+key: Salomon-Van Lecuwen Maria, num missed: 1
+key: ליפשיץ בנימין, num missed: 1
+key: Goestling an der Ybbs,Camp, num missed: 1
+key: Emmanuel Brand, num missed: 1
+key: Zembin Area,Zagornoe,forest,Murder Site,Belorussia (USSR), num missed: 1
+key: Koln,Koeln,Rhine Province,Germany, num missed: 1
+key: האגודה לתרבות היהודית בצ'רנוביץ, אוקראינה, num missed: 1
+key: פוחוביצקי ארקדי, num missed: 1
+key: ע"י אוניברסיטת תל-אביב, num missed: 1
+key: Ilya Levitas, num missed: 3
+key: Siegmar Schoenau,Camp, num missed: 1
+key: Coburg,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: Dr. Koczocik-Przedoceska Jadwiga, num missed: 1
+key: טוביה יוסף, num missed: 1
+key: Pusztavam,Camp,Hungary, num missed: 1
+key: ארנה אדוריאן, num missed: 1
+key: Russian Research and Educational "Holocaust" Center, num missed: 7
+key: Ottynia,Ghetto, num missed: 1
+key: Romuald Kulik, num missed: 1
+key: מיכאל פרפל, num missed: 1
+key: הניג אריה, num missed: 1
+key: יוחנן דיקאסטרו, num missed: 1
+key: אלפרוביץ יהואש, num missed: 1
+key: Dywin, num missed: 1
+key: טאנסורה פטר, num missed: 1
+key: יצחק תדמור, num missed: 1
+key: Adler Leib, num missed: 1
+key: דר' קרשאי חנן, num missed: 2
+key: קרן אור מכאל, num missed: 1
+key: איילה יוחנן כהן, num missed: 1
+key: אורזך ישראל, num missed: 1
+key: וולף אליעזר, num missed: 1
+key: ארגון יהודי דתי, num missed: 1
+key: Brkic Stanisa, Prof, num missed: 1
+key: Meiningen,Weimar,Thuringia,Germany, num missed: 1
+key: רבינוביץ שרה, num missed: 1
+key: אברמוביץ ליובוב, num missed: 1
+key: ברוכנסקי יונה (קרית-אתא), בונדטוביץ פסח (חולון), num missed: 1
+key: ליבמן פרידה, num missed: 1
+key: BUNDESARCHIV BERLIN, num missed: 2
+key: מיזלין אמה, num missed: 1
+key: Salzgitter,Camp, num missed: 2
+key: מיירשטיין פאינה, num missed: 1
+key: Dr. Ben Shapiro, num missed: 1
+key: <>,Muenster,Westphalia,Germany, num missed: 1
+key: פיוטר פינוס, num missed: 1
+key: לוי מרסל, num missed: 1
+key: Hersbruck,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: Duisburg,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: טל רחל ודוד, num missed: 1
+key: CENTRALNE ARCHIWUM WOJSKOWE, WARSZAWA, num missed: 1
+key: Abraham Zekler, num missed: 1
+key: Yevgeniya Krichevskaya, num missed: 1
+key: The Hidden Child - הקהילה היהודית ב-Kosice, num missed: 2
+key: Arkadiy Monastyrskiy, num missed: 3
+key: אברמוב ילנה, num missed: 1
+key: Trostyanka Area,Murder Site,Ukraine (USSR), num missed: 2
+key: <>,<>,Thuringia,Germany, num missed: 1
+key: Jack Polaniecki, num missed: 1
+key: רחל בן-אליעזר, num missed: 2
+key: FOND UPRAVLENIYA SLUZHBY BEZOPASNOSTI UKRAINY V KIEVSKOY OBLASTI - UKRAINE, KIEV, num missed: 1
+key: ע"י כנעני תקוה, num missed: 1
+key: גכט מאיר, num missed: 1
+key: ליסנר בנימין-זאב, num missed: 1
+key: כהן ישראל, num missed: 1
+key: רובין יחזקאל, num missed: 1
+key: STAATSARCHIV SCHAFFHAUSEN, SCHAFFHAUSEN, SWITZERLAND, num missed: 1
+key: Neuwied,Koblenz,Rhine Province,Germany, num missed: 2
+key: Wallenstein Laura, num missed: 1
+key: וקטור דוד ירושלים, num missed: 1
+key: כהן פרדריק, num missed: 1
+key: יוסי כץ, num missed: 2
+key: Hamburg,Hamburg,Hamburg,Germany, num missed: 10
+key: שוורץ קטלין, num missed: 1
+key: קראסנובסקי וולדימיר אלחננוביצ' Krasnovski Vladimir Elkhananovich, num missed: 1
+key: ארגון יוצאי סוקל טרטקוב והסביבה, num missed: 1
+key: יוסף-נח הבר, סט. לואיס, ארה"ב, num missed: 1
+key: Dokumentationsarchiv des oesterreichischen Widerstandes, num missed: 1
+key: יחיאל להבי, num missed: 1
+key: שטראוס שמואל, num missed: 1
+key: מוגילבסקי איסק, num missed: 1
+key: ויג ורה, num missed: 1
+key: Republica Populara Romana Ministerul Justitiei Institutul Medico-Legal, num missed: 1
+key: טרייגרמן נינה, num missed: 1
+key: Nederlandsche Roode Kruis, num missed: 1
+key: Mme Zeglany Pierrete, num missed: 1
+key: San Vittore,Detention Site,Italy, num missed: 1
+key: Vorbyovy Gory, num missed: 1
+key: מאיר טובה, num missed: 1
+key: וועדה לחקר פשעי הנאצים - סניף פוזנן, num missed: 1
+key: פינקלשטיין, num missed: 1
+key: ארגון וטרנים, num missed: 1
+key: Statistischen Amt, num missed: 1
+key: Straubing,Niederbayern und Oberpfalz,Bavaria,Germany, num missed: 1
+key: Pavel Kozlenko, num missed: 1
+key: אלמוני, num missed: 3
+key: הראל חנה, num missed: 1
+key: Zerbst,Dessau,Anhalt,Germany, num missed: 1
+key: Moehra,Weimar,Thuringia,Germany, num missed: 1
+key: Kainz Eva, num missed: 1
+key: Koeln,Koeln,Rhine Province,Germany, num missed: 1
+key: Oestrich Rheingau,Wiesbaden,Hesse-Nassau,Germany, num missed: 2
+key: Hans Kaiser, num missed: 2
+key: Finkelshteyn, Iosif, num missed: 1
+key: גולקרוב פנחס, num missed: 1
+key: חוה פלטי, num missed: 2
+key: רז אלי, num missed: 1
+key: Reznik, num missed: 1
+key: Michel Koppe, num missed: 2
+key: Lippstadt (Lipps. Eisen- u. Mettalwerke),Camp, num missed: 2
+key: מוזיקנטסקי אהרון, num missed: 1
+key: Nederlansche Roude Kruis, num missed: 1
+key: Iasi, num missed: 19
+key: Kaltennordheim,Weimar,Thuringia,Germany, num missed: 1
+key: Jena,Weimar,Thuringia,Germany, num missed: 1
+key: זקלין דומה, num missed: 1
+key: Yugin Anna, num missed: 1
+key: יעקב קרסין Yakov Karasin, num missed: 2
+key: יוזף בוזל, גרמניה, num missed: 1
+key: Laubach Ruppertsburg,Giessen,Hesse,Germany, num missed: 1
+key: Drs A. W. WENTHOLT, num missed: 1
+key: לוין מירה, num missed: 1
+key: יוסי וייס, num missed: 1
+key: Zampolskaya Shina, num missed: 1
+key: Okregowa Komisja Badania Zbrodni Hitlerowskich, num missed: 1
+key: Ernst Hendrik, num missed: 1
+key: Paerschke Karl-Heinz, num missed: 1
+key: קסטנברג ישראל, num missed: 1
+key: Protestantische Kirchengemeinde Ruchheim, num missed: 1
+key: פלאק פריידה, num missed: 1
+key: כץ רבינוביץ מרים\3, num missed: 1
+key: Uman,vicinity,Murder Site, num missed: 1
+key: ארנסט אלכס, num missed: 1
+key: Nordhausen,Camp, num missed: 1
+key: הוועדה לחקר פשעי הנאצים ועוזריהם, num missed: 3
+key: Honan Ingrid, num missed: 1
+key: ארבל ראובן, num missed: 1
+key: Woebbelin,Camp, num missed: 1
+key: Kanev Area,Berestovetskiy Yar,ravine,Murder Site,Ukraine (USSR), num missed: 1
+key: סוזי ערמון סציזאריק, num missed: 2
+key: SARA GINAITE-RUBINSONIENE, num missed: 1
+key: GEDENKSTAETTE UND MUSEUM SACHSENHAUSEN, ORANIENBURG, num missed: 1
+key: Prof. Mastian ע"י פטרן גילה, num missed: 1
+key: NATSIONALNY ARKHIV RESPUBLIKI MOLDOVA - MOLDOVA, KISHINEV, num missed: 1
+key: וניצ'ק גרהרד, הרדהיים, גרמניה, num missed: 1
+key: אדמיניסטרציה של Novy Pikov, num missed: 1
+key: Lucas Bruijn, num missed: 1
+key: אלקה מושנברג (נגלר), num missed: 1
+key: STADTARCHIV MEMMINGEN, num missed: 1
+key: גרינברג סופיה ויצמן 101, num missed: 1
+key: Lieberose,Camp, num missed: 5
+key: כתריאל מוניץ, num missed: 1
+key: סימוביץ ליזה, num missed: 1
+key: Ingolstadt,Oberbayern,Bavaria,Germany, num missed: 1
+key: דנילקו מרים, num missed: 1
+key: יפה ראיסה, num missed: 1
+key: Gross Elly, num missed: 1
+key: Gorodok Area,Vorobyovy Gory,hill,Murder Site,Belorussia (USSR), num missed: 1
+key: מרק פייגנבאום, num missed: 1
+key: Verband der Israelitischen Kultusgemeinden in Jugoslavien, num missed: 1
+key: BACKHAUSER MANFRED, num missed: 1
+key: טוט דזידר, num missed: 1
+key: Hannover,Hannover,Hanover,Germany, num missed: 2
+key: Muelheim Ruhr,Duesseldorf,Rhine Province,Germany, num missed: 2
+key: סטרול אריקה, num missed: 1
+key: Dubossary, num missed: 1
+key: Gehaus,Weimar,Thuringia,Germany, num missed: 1
+key: Nordhausen,Erfurt,Saxony Province,Germany, num missed: 2
+key: Heinz DS Kounio (Konio) Constantopoulou, num missed: 1
+key: שהם בנימין, num missed: 1
+key: שלמה קמייסקי, num missed: 1
+key: Lichtenau,Camp, num missed: 1
+key: בוריס מפציר דוד ויינשטיין David Weinstein Vainseliboim, num missed: 1
+key: קונייצנו אלפרד, num missed: 1
+key: Gmuend,Camp,Austria, num missed: 1
+key: שושנה רוזן, num missed: 1
+key: Meerholz,<>,Hesse-Nassau,Germany, num missed: 3
+key: הצלב האדום, num missed: 2
+key: קומיסריון הצבאי, num missed: 1
+key: זרך בוריס, num missed: 1
+key: Ovshya Peker, num missed: 1
+key: Hoppstaedten,Koblenz,Rhine Province,Germany, num missed: 2
+key: לוקץ לובוב, num missed: 1
+key: Landsberg,Camp, num missed: 3
+key: אלווירה פולצ'אק, num missed: 1
+key: חייבטוב מניה - Khayvatov Mania, num missed: 1
+key: סלומון יונה, num missed: 1
+key: ארנפסט זהבה, num missed: 1
+key: CENTRE DE DOCUMENTATION JUIVE CONTEMPORAINE, PARIS, FRANCE, num missed: 1
+key: Sered,Camp, num missed: 1
+key: קפרוצין מרים, num missed: 1
+key: יפה ישעיהו, num missed: 1
+key: ווייף וייף אריה, num missed: 1
+key: <>,Leipzig,Saxony,Germany, num missed: 1
+key: גלינה יסלבה וילנה בודילובסקיה, num missed: 1
+key: Neckarelz,Camp, num missed: 2
+key: Zernitz,Camp,Germany, num missed: 1
+key: George Stein, num missed: 1
+key: שגיא נעמי, num missed: 1
+key: קשת מזל, num missed: 1
+key: Bebina Sima, num missed: 1
+key: גפן שירה, num missed: 1
+key: Het Nederlandsche Roode Kruis, num missed: 1
+key: אהרון אבא קוראנט, num missed: 1
+key: Centralny Komitet Zydow Polskich, num missed: 1
+key: JUDISCHE GEMEINDE ZU BERLIN, num missed: 2
+key: רנה מולוקנדוב, num missed: 1
+key: Avraham Bokser, num missed: 1
+key: Slovakia,<>,<>,<>, num missed: 2
+key: Mjaland Arne, num missed: 1
+key: Cernauti,Ghetto, num missed: 1
+key: זומרפלד אלויז, קרלסרוה, גרמניה, num missed: 1
+key: Boris Zabarko, num missed: 1
+key: Kosow,Ghetto, num missed: 1
+key: Wuestegiersdorf,Camp, num missed: 1
+key: ריידמן יפים, num missed: 1
+key: אנגלשטיין חנה, num missed: 1
+key: Zschopau,Camp, num missed: 1
+key: שטרן יוג'ין, num missed: 1
+key: קלייר ויינברג, ניו-יורק, ארה"ב, num missed: 1
+key: מרדכי רוזברוך, num missed: 1
+key: הלל בוטמן, num missed: 1
+key: Dubrovno,Murder Site,Belorussia (USSR), num missed: 1
+key: Blankenese,קיבוץ "חרות",הכשרה,Germany, num missed: 1
+key: בית אשכנז היכל שלמה, num missed: 1
+key: REIFFEN HANS-ULRICH, num missed: 1
+key: יונתן דובוב, num missed: 1
+key: סופר מליטה, num missed: 1
+key: Golubaya Dacha Area,forest,Murder Site,Russia (USSR), num missed: 1
+key: Jessnitz,<>,<>,Germany, num missed: 1
+key: Projekt Riese,Camp,Germany, num missed: 2
+key: SAECHSISCHES STAATSARCHIV LEIPZIG, num missed: 1
+key: Mannheim,Karlsruhe,Baden,Germany, num missed: 1
+key: גרוטה יוזף, גרמניה, num missed: 1
+key: Ludwigshafen am Rhein,Pfalz,Bavaria,Germany, num missed: 1
+key: פבזנר מרק, num missed: 1
+key: ברוש הלגה-יהודית, num missed: 1
+key: רבינוביץ אלכסנדר, num missed: 1
+key: Steiner, num missed: 1
+key: Bratslav,Camp,Ukraine (USSR), num missed: 3
+key: Wildgoose Maurice, num missed: 1
+key: בלומקין זינאידה, num missed: 1
+key: צבי כוכב, num missed: 1
+key: Pinhas Aftergot, num missed: 1
+key: Ghingold Bernardne-Bucuresti,Romania, num missed: 1
+key: וולמן רנה סוניה, num missed: 1
+key: Millingen ?ber Emmerich,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: יוסף בן שמואל גולדברגר, num missed: 1
+key: אגמון אפרים, num missed: 1
+key: רוזנבאום אינה, num missed: 1
+key: אסתר קופל, num missed: 2
+key: ניצב רות, num missed: 1
+key: גרוס מלודי אמסל, num missed: 1
+key: Seybold Katja, num missed: 1
+key: מאיר נעמי אמה, num missed: 1
+key: Luba Kantorovitch, through Rabbi Milton Polin, through Rabbi Naftali Hollander., num missed: 1
+key: Dautmergen,Camp, num missed: 4
+key: Wuerzburg,Mainfranken,Bavaria,Germany, num missed: 2
+key: רוברט מידלרסקי, num missed: 1
+key: שפירה בן, num missed: 1
+key: Kholmy,village,Murder Site,Ukraine (USSR), num missed: 2
+key: Wiesbaden,Wiesbaden,Hesse-Nassau,Germany, num missed: 6
+key: קמינצקי גניה, num missed: 1
+key: Eckernfoerde,Kiel,Schleswig-Holstein,Germany, num missed: 3
+key: אשר אביבה ואברהם, num missed: 1
+key: Priluki,???????????,suburb,Murder Site,Ukraine (USSR), num missed: 3
+key: Biberach,Camp,Germany, num missed: 3
+key: Bluma Yampolosky, num missed: 1
+key: בר-לב חנה, num missed: 1
+key: פינצי יצחק, num missed: 1
+key: HARVEY SARNER, num missed: 1
+key: שפיגל יהודה, num missed: 2
+key: Tiefenort,<>,Thuringia,Germany, num missed: 1
+key: שלום יעקובוביץ, num missed: 2
+key: Ponevezh,forest,Murder Site,Lithuania (USSR), num missed: 1
+key: יקובוביץ, num missed: 1
+key: גלטשטיין חנה, num missed: 1
+key: קפלן אברהם, num missed: 1
+key: מערכת להוצאת ספר יזכור לקדושי קהילת Nowogrodek, num missed: 1
+key: Zhashkov Area,Dubina Skibinskaya,plot,Murder Site,Ukraine (USSR), num missed: 1
+key: יואל דרורי, num missed: 2
+key: Christine Schmidt, num missed: 1
+key: ד"ר אביגדור שחן, num missed: 2
+key: Balir Ilona, num missed: 1
+key: ד"ר שמואל קרקובסקי, num missed: 1
+key: יצחק אלפסי, num missed: 1
+key: לינדה אוטשינסקי, num missed: 1
+key: Dywin Ghetto, num missed: 1
+key: נוסליס חנה-לובה, num missed: 1
+key: Dessau,Dessau,Anhalt,Germany, num missed: 1
+key: גרף הלן, num missed: 1
+key: קארפי ב., num missed: 1
+key: FILIAL GOSUDARSTVENNOGO ARKHIVA BRESTSKOY OBLASTI V PINSKE - BELARUS, PINSK, num missed: 2
+key: סלווין יזראל, num missed: 1
+key: קורנהאוזר נח, num missed: 1
+key: Neil Kaplan, num missed: 1
+key: חריט מנחם, num missed: 1
+key: מורדכילביץ' מריה, num missed: 1
+key: Adam Brown, num missed: 1
+key: Duderstadt,Hildesheim,Hanover,Germany, num missed: 1
+key: דני נימרי, num missed: 1
+key: MINISTERE DE LA SANTE PUBLIQUE ET DE LA FAMILLE, num missed: 1
+key: שמואל בן דוד, num missed: 1
+key: Oldersum,Aurich,Hanover,Germany, num missed: 2
+key: Zemun,<>,Croatia Srem,Yugoslavia, num missed: 1
+key: לבקוביץ' מלכה, num missed: 1
+key: Mairie, num missed: 1
+key: רוטהולץ מנחם, num missed: 1
+key: Bad Kreuznach,Koblenz,Rhine Province,Germany, num missed: 1
+key: בוריס מפציר, num missed: 5
+key: וילינגר ארנסט, num missed: 1
+key: רבינוביץ' ולנטינה, num missed: 1
+key: Lucy Margules Brooklyn, num missed: 1
+key: Sayn,<>,Rhine Province,Germany, num missed: 1
+key: Rowno,Ghetto, num missed: 3
+key: Kalusz,Ghetto, num missed: 4
+key: Bialystok,Ghetto, num missed: 1
+key: Jack and Libby Feld, num missed: 1
+key: Bokser Avraham, num missed: 1
+key: Obodovka,Camp, num missed: 1
+key: Haldern,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: Korelicze,Ghetto, num missed: 2
+key: Jacqueline and Peter Kemeny, num missed: 1
+key: חנה שטנר, num missed: 1
+key: Pilzno,Murder Site, num missed: 2
+key: לאה רוטפלד, num missed: 4
+key: שבח ניקול, num missed: 1
+key: ראובן מושנברג*, num missed: 1
+key: דרוטמן ארתור, num missed: 1
+key: רוזנברג שרה רחל, num missed: 1
+key: יושבאייב גדייל, num missed: 1
+key: STANDESAMT FREIBERG, num missed: 1
+key: Bleicherode,Erfurt,Saxony Province,Germany, num missed: 1
+key: מיר ג'וזף, num missed: 1
+key: Stuttgart,Stuttgart,Wuerttemberg,Germany, num missed: 2
+key: Cohn Franz, num missed: 1
+key: Meuselwitz,Camp, num missed: 1
+key: B. HOFMAN LIEVERS, num missed: 1
+key: נוסם גוסטב ז"ל באמצעות שלומית נוסם, num missed: 1
+key: Farber Isaak, num missed: 1
+key: Ravenna,Detention Site,Italy, num missed: 1
+key: דלוגוש יוזף, ורוצלב, פולין, num missed: 1
+key: Niedober Marilyn, num missed: 1
+key: Johannes Bruno, num missed: 2
+key: Feferman Rafael, num missed: 1
+key: Ilmenau,Weimar,Thuringia,Germany, num missed: 1
+key: Yarun,Ghetto, num missed: 1
+key: David Turovsky, num missed: 1
+key: פפו רוזיקה, num missed: 1
+key: Berezovke, num missed: 1
+key: בנדר שרה, num missed: 1
+key: Peschanka,Murder Site, num missed: 1
+key: PANSTWOWE MUZEUM W OSWIECIMIU - BRZEZINCE, OSWIECIM, POLAND, num missed: 3
+key: חיים מושקוביץ, num missed: 1
+key: נוגרה ז'אן-פייר, num missed: 1
+key: שושנה שטרמר, num missed: 1
+key: אוסטרובסקי לידיה, num missed: 1
+key: Kotlyar Lusy, num missed: 1
+key: אריה קליין, num missed: 1
+key: Speyer,Pfalz,Bavaria,Germany, num missed: 3
+key: פילדס רונה, אלכסנדריה, וויומין, ארה"ב, num missed: 1
+key: Somovit,Camp,Bulgaria, num missed: 2
+key: פרופ' צבי ניר, num missed: 1
+key: קומיסריון צבא האדום, num missed: 1
+key: Krivosheya Genia, num missed: 1
+key: דיקן רגינה, num missed: 1
+key: יוסף קורנילו, num missed: 1
+key: צבי שלו*, num missed: 1
+key: הרמן אריה, num missed: 1
+key: Julius Scharnetzky, num missed: 2
+key: Lichtenburg,Camp, num missed: 2
+key: Ilya Altman, num missed: 1
+key: Magdeburg,Magdeburg,Saxony Province,Germany, num missed: 5
+key: Yehudit shendar, num missed: 1
+key: דגן דן, num missed: 1
+key: דותן בתיה, num missed: 1
+key: Watenstedt - Hallendorf,Camp, num missed: 1
+key: MINSTERE DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE, PARIS, num missed: 1
+key: נחושתן הדסה, num missed: 1
+key: אירגון יוצאי Tluste, num missed: 1
+key: Calbe Saale,Magdeburg,Saxony Province,Germany, num missed: 1
+key: קליין גיאורגי, num missed: 1
+key: מילר מגדה, num missed: 1
+key: ארגון יוצאי רייביץ, num missed: 1
+key: Nezhin,town,Murder Site,Ukraine (USSR), num missed: 5
+key: J. HOZ, num missed: 1
+key: קליינר נחמה, num missed: 1
+key: אברהם דיאמנט, num missed: 1
+key: ברוך חווה, num missed: 1
+key: מנדלבוים חנוך, num missed: 1
+key: Semen Yakubovich, num missed: 1
+key: קרסיק יעקב, num missed: 1
+key: Juedische Gemeinde Wittlich, num missed: 1
+key: הוועדה לחקר פשעי הנאצים, num missed: 2
+key: חובן מלבינה, num missed: 1
+key: Foerderkreis "Synagoge in Voehl" e.V, num missed: 1
+key: לזר אברהם, num missed: 1
+key: Jerome and Klara Jekel, num missed: 1
+key: ש. מיימון, num missed: 1
+key: מר דניביץ*, num missed: 1
+key: Aach,Trier,Rhine Province,Germany, num missed: 1
+key: אלון איתן, num missed: 1
+key: Schlieben,Camp, num missed: 5
+key: Peczenizyn,Ghetto,Poland, num missed: 1
+key: Le Vernet,Camp,France, num missed: 1
+key: ארגון יוצאי Zawiercie והסביבה, num missed: 1
+key: ארגון עובדי כפייה תחת שלטון הנאצים, גרינשטיין דוד, יו"ר, num missed: 1
+key: JOSEF SOKOL, num missed: 1
+key: רזי מרדכי, num missed: 1
+key: Schoemberg,Camp, num missed: 2
+key: Freiburg,Karlsruhe,Baden,Germany, num missed: 2
+key: קק"ל, num missed: 1
+key: רודולף קחורוב, num missed: 1
+key: Samuil Shutzman, Sergey Vanshteyn, num missed: 1
+key: אקסלרוד אנטוני, num missed: 1
+key: שרגא שלייפר, ארגון יוצאי סטרליסק, num missed: 1
+key: Moniteur Belge / Belgisch Staatsblad, num missed: 1
+key: Ujazdow,Camp, num missed: 1
+key: שמואל יודלביץ, num missed: 1
+key: בוריס ווינטרוב, num missed: 1
+key: יוסף יגור, num missed: 2
+key: Oederan Stadt des Klein Erzgebirges Eberhard Ohm, num missed: 1
+key: Leer,Aurich,Hanover,Germany, num missed: 1
+key: בלוך ארנסט, num missed: 1
+key: ע"י ריבלין ברכה, num missed: 1
+key: מושיאשוילי אליהו, num missed: 1
+key: Verden,Camp, num missed: 1
+key: טוביה פרידמן, num missed: 1
+key: Ministere de la Sante Publique et de la Famille, num missed: 1
+key: Inna Tsalik, num missed: 2
+key: רבהין זאב, num missed: 1
+key: Pamatnik Terezin, num missed: 2
+key: היינריך אריקה, num missed: 1
+key: ליברמן בנימין, num missed: 1
+key: בית טרזינשטאדט, num missed: 1
+key: גיל פארן, num missed: 1
+key: Michael Schneeberger, num missed: 1
+key: Naudaskalns,Murder Site, num missed: 1
+key: Hildburghausen,Weimar,Thuringia,Germany, num missed: 1
+key: Szatmar Megyei Zsido Hitkozseg, num missed: 1
+key: ע"י גינזבורג מרי, num missed: 1
+key: Flossenbuerg,Camp, num missed: 4
+key: מריה כצנלסון, num missed: 1
+key: Dakovo,Camp,Yugoslavia, num missed: 2
+key: Abel Boris, num missed: 1
+key: לבל ג'ני, num missed: 1
+key: Aachen,Aachen,Rhine Province,Germany, num missed: 1
+key: מגידוביץ אוסנת, num missed: 1
+key: סימוני ולטר, num missed: 1
+key: שלמה נוסבאום-שפייזער, num missed: 1
+key: BURGELIJKE STAND AMSTERDAM, num missed: 1
+key: Piaski,Camp, num missed: 1
+key: Manuel P. de Groot, num missed: 1
+key: Gorodskoy Voenniy Komissariat, num missed: 1
+key: Babi Yar,Murder Site, num missed: 4
+key: Frankfurt am Main,Wiesbaden,Hesse-Nassau,Germany, num missed: 9
+key: לשכת הקשר של הסתדרות העובדים בארץ ישראל, num missed: 1
+key: שפיר דבורה, num missed: 1
+key: ציליה פינוס, num missed: 1
+key: מרידור יוכי, num missed: 1
+key: Berlin,Berlin,Berlin,Germany, num missed: 29
+key: Suzana Kohn, num missed: 1
+key: בן-ציון ליבוביץ, num missed: 1
+key: Vestnik Sladeckova musea v Kladn, num missed: 1
+key: Nowya Rubyazhy, num missed: 1
+key: יעקב נקש, num missed: 2
+key: Local Jewish museum, num missed: 1
+key: Belzyce,Ghetto, num missed: 1
+key: הארכיון המנהלי, num missed: 1
+key: SS kommando Elsning Elbe, num missed: 1
+key: אברהם בריו בריא, num missed: 1
+key: ועד יוצאי ניסביז' בישראל, num missed: 1
+key: יהודה קרמר, num missed: 1
+key: There is an identical list; see the related items., num missed: 1
+key: שגורי אגנס, num missed: 1
+key: Walter Mueller, num missed: 2
+key: Vos I.M.S., Cokmeerweg 169, 1068 AV, Amsterdam, Holland, num missed: 1
+key: רחל לרנר, num missed: 2
+key: MINISTRERE DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE, num missed: 1
+key: Dortmund,Arnsberg,Westphalia,Germany, num missed: 1
+key: קופת גמילות חסד לזכר קדושי Mako, num missed: 1
+key: Auerbach,Arnsberg,Westphalia,Germany, num missed: 1
+key: נליצקי בנימין, num missed: 2
+key: גורדון מקס, num missed: 1
+key: מינץ חוה, num missed: 1
+key: מוניה שוסטר, num missed: 1
+key: רזניק אריה, num missed: 1
+key: Moldovanova Rita, num missed: 1
+key: Storonichi,vicinity,Murder Site,Ukraine (USSR), num missed: 1
+key: KONIECZNY ALFRED, num missed: 1
+key: משה פרויד, num missed: 1
+key: Glavnoye upravlenie otdela kadrov Ministerstva Oborony SSSR, num missed: 1
+key: Claude Marx, num missed: 2
+key: ישראל אנטל, num missed: 1
+key: ברוך אברהם, num missed: 1
+key: Kutno,Ghetto, num missed: 1
+key: קומיסריאט הצבאי, num missed: 1
+key: לופלר חיים, num missed: 1
+key: ע"י אברמסקי עירית, num missed: 1
+key: קגן פליקס, num missed: 1
+key: שבט דב, num missed: 1
+key: Trawniki,Camp, num missed: 3
+key: Neuendorf ?ber Fuerstenwalde,Frankfurt,Brandenburg,Germany, num missed: 2
+key: Boulogne Billancourt,Seine - Seine et Oise,<>,France, num missed: 1
+key: ליאורה פוזננסקי, num missed: 1
+key: גולדשטיין מיכאל, num missed: 1
+key: Kopyl,Ghetto, num missed: 1
+key: ון טין קטרינה, num missed: 1
+key: Norman Heine, num missed: 1
+key: זרוד אסתר, num missed: 1
+key: קנישינסקי אריה, num missed: 1
+key: זלמנוביץ לאופולד, num missed: 1
+key: דינר חסיה, num missed: 1
+key: Harriet Kasow, num missed: 1
+key: אשכנזי הרמינה, num missed: 1
+key: נוימן רוז, ניו יורק, ארה"ב, num missed: 1
+key: Gisela Brodkorb, num missed: 1
+key: Evsey Spivak, num missed: 2
+key: Mark Gorlovskiy, num missed: 1
+key: Kailaka,Camp,Bulgaria, num missed: 2
+key: The Jerusalem Academy of Medicine, num missed: 1
+key: רובוצ'יק ראובן, num missed: 1
+key: ארון צ'רלס, num missed: 1
+key: שונפלד יוסף, num missed: 1
+key: שוייצר צבי, num missed: 1
+key: אינגבר אברהם, num missed: 1
+key: וליש ברכה, num missed: 1
+key: ארגון יוצאי שורני בישראל, num missed: 1
+key: מיכל וידרמן, num missed: 1
+key: שייר אינסה, num missed: 1
+key: קיי לואיס, num missed: 1
+key: רוזס מורל, num missed: 1
+key: טל מוסקוביץ לבית פיאדה (Pijade), num missed: 1
+key: Deutschkreutz,Camp, num missed: 2
+key: שפיץ רוחלה, num missed: 1
+key: Professor Mike Glazer, num missed: 2
+key: ולדימיר אנטין, num missed: 2
+key: Abram Pribluda, num missed: 1
+key: Doebeln,Leipzig,Saxony,Germany, num missed: 1
+key: Olesya Petrovskaya, num missed: 1
+key: ולריה יוהס, num missed: 1
+key: שמעונוביץ משה, רחובות, num missed: 1
+key: Fredi Deac, num missed: 1
+key: בצלאל מאיסדורף, num missed: 1
+key: וולף יצחק, num missed: 1
+key: רוזן מתניה, num missed: 1
+key: לובה רם Luba Ram, num missed: 1
+key: ש. י. פרנקל, num missed: 1
+key: זויה קטנוב, num missed: 1
+key: יבלונובסקי נתן, num missed: 2
+key: ע"י מאיורק יורם, num missed: 1
+key: Nina Makarova, num missed: 1
+key: Horowitz Louis, num missed: 1
+key: בריטמן רינה, num missed: 1
+key: הקהילה היהודית של Pinsk, num missed: 1
+key: רות בן-דוד, num missed: 1
+key: Jordanbad,DP CAMP,Germany, num missed: 1
+key: INTERNATIONAL TRACING SERVICE, AROLSEN - ITS, num missed: 3
+key: ויסברג אהרון, מזכיר ארגון יוצאי רובנה בישראל, num missed: 1
+key: ברנבוים באטריס, num missed: 1
+key: Riga,Detention Site,Latvia, num missed: 4
+key: ספרית יד ושם, num missed: 1
+key: צבי מור מנהל ארכיון עין גב, num missed: 1
+key: Borisov,Ghetto, num missed: 3
+key: מועצה מקומית מטולה, num missed: 1
+key: Ruth Cohen, num missed: 1
+key: שייקה דיניצקי דר יבגני פיבזנר, num missed: 1
+key: יצחק דויטש, num missed: 1
+key: Nederlandse Israelische Gemeente, num missed: 1
+key: ילין זאב, num missed: 1
+key: זוהר אלי, num missed: 1
+key: מיכאל יוריס, num missed: 1
+key: וילמרסדורפר גרטרודה, num missed: 1
+key: Kiedke Karl, num missed: 2
+key: Adolph Konrad, num missed: 1
+key: גדליה כץ, num missed: 1
+key: Peretz Goldstein, num missed: 1
+key: יעקב כפיר, num missed: 1
+key: TSENTRALNY GOSUDARSTVENNY ISTORICHESKIY ARKHIV UKRAINY, g.LVOV - UKRAINE, LVOV, num missed: 1
+key: ורדית וייס, num missed: 1
+key: Randegg,Camp, num missed: 1
+key: MARJEM STOLAK, num missed: 1
+key: Rudolstadt,<>,Thuringia,Germany, num missed: 1
+key: קראוס-מאיר לילי, num missed: 1
+key: PERMAN DAVID, num missed: 1
+key: Leibel Sala, num missed: 1
+key: Oliver Susan W, num missed: 1
+key: Ballenstedt,Dessau,Anhalt,Germany, num missed: 1
+key: יעקב מור מורבצ'יק, num missed: 1
+key: גניה פינקלשטיין, num missed: 1
+key: דוד שוהם החברה לאיתור ולהשבת נכסים של נספי השואה בע"מ, num missed: 1
+key: Kleber Heinz, num missed: 1
+key: Lanczyn,Ghetto, num missed: 1
+key: Boef Ron, num missed: 1
+key: Glinkiewicz Jehoshua, num missed: 1
+key: Mosberg Edward, num missed: 1
+key: אבידור יעקב, num missed: 1
+key: קומיסריאט העם לענייני פנים, num missed: 1
+key: מוסקוביץ סימה, num missed: 1
+key: גאוס אלימלך, num missed: 1
+key: פומרנץ אהובה, num missed: 1
+key: Gray Irene, num missed: 1
+key: סרנטו יהושע, num missed: 1
+key: אבישר שמואל, num missed: 1
+key: דוידוב איליה, num missed: 1
+key: פרויד נפתלי פרויד פייבל, num missed: 1
+key: רינה חנה כהן, num missed: 1
+key: Rada zidovskych nabozenskych obci v zemich Ceske a Moravskoslezske, num missed: 1
+key: Kaufering Lager Iii,Camp, num missed: 2
+key: מחלביץ א., num missed: 1
+key: Prepared by the local Judenrat, num missed: 1
+key: סילברמן אינגריד, טשנר אולריך, num missed: 1
+key: אורבך יצחק ושרה, num missed: 1
+key: Csaradi Jozsef, num missed: 1
+key: פיי מוריס, num missed: 1
+key: David Bril, num missed: 1
+key: Muelheim,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: Chernigov Area,Berezovy Rov,plot,Murder Site,Ukraine (USSR), num missed: 1
+key: ירמן ברוריה, num missed: 1
+key: קליין אברהם, num missed: 1
+key: Michael H. Lee, num missed: 1
+key: Wille,Camp, num missed: 2
+key: שגרירות במינסק, num missed: 1
+key: Friedman Jehuda Leib, num missed: 1
+key: STANDESBEAMTE, num missed: 1
+key: Gundelsdorf,Camp, num missed: 1
+key: URSULA ROESSLER, num missed: 1
+key: ארגון יוצאי וילנו, num missed: 1
+key: ארגון יוצאי קוצמן והסביבה בישראל, num missed: 1
+key: כריסטינה דאנמאן, גרמניה, num missed: 1
+key: אירגון יוצאי רייביץ והסביבה, num missed: 1
+key: גרימפלד פיטר, num missed: 1
+key: Panstwowe Muzeum v Oswieciemu, num missed: 1
+key: Ministere des Ancients Combattants et Victimes de Guerre, num missed: 1
+key: דני מור, num missed: 1
+key: אוניברסיטת ת"א, ספריית הפקולטה למשפטים, num missed: 1
+key: ינינה ז'ומיאן, num missed: 1
+key: Graeditz,Camp,Germany, num missed: 1
+key: אליעזר כרמי, num missed: 1
+key: GOSUDARSTVENNY ARKHIV ROSSIYSKOY FEDERATSII - RUSSIA, MOSKVA, num missed: 1
+key: Oster,airport,Murder Site,Ukraine (USSR), num missed: 1
+key: Wartenburg,Allenstein,East Prussia,Germany, num missed: 1
+key: Kleve,Duesseldorf,Rhine Province,Germany, num missed: 1
+key: פינקלשטיין יוסף, num missed: 2
+key: הועדה לחקר פשעי הנאצים בלודז', num missed: 1
+key: Plaszow,Camp, num missed: 1
+key: יובל לוי, num missed: 1
+key: בודזנק רוברט, num missed: 1
+key: Jewish History and Culture Museum of Belarus, num missed: 8
+key: הקומיסריאט הצבאי, num missed: 4
+key: Georg-Christoph-Lichtenberg Gymnasium, num missed: 1
+key: Eppingen,Karlsruhe,Baden,Germany, num missed: 1
+key: סובול, num missed: 1
+key: Skazintsy,Camp, num missed: 1
+key: Stutthof,Camp, num missed: 11
+key: Wels,Camp,Austria, num missed: 3
+key: וילשיצקי אירית, num missed: 1
+key: אלפרט יחיאל, num missed: 1
+key: GEDENKST?TTE BERGEN-BELSEN, num missed: 1
+key: ארדובה אניה, num missed: 1
+key: Nadia Sasson, num missed: 1
+key: Gryglewski, num missed: 1
+key: טרביץ אליהו, num missed: 1
+key: שמואל חצור, num missed: 1
+key: קטיה ריאבינה, num missed: 2
+key: רותי ומשה שרון, num missed: 1
+key: ויסברגר יעקב (באמצעותה של קלרמן-קלוגר אביבה, num missed: 1
+key: בנימין בן דור, num missed: 1
+key: טוצ'יק פני, num missed: 1
+key: טלבי יום טוב, num missed: 1
+key: Kolomyja,Ghetto, num missed: 2
+key: Ovruch,city,Murder Site, num missed: 2
+key: Freiberg,Dresden Bautzen,Saxony,Germany, num missed: 1
+key: ארגון יוצאי Kremenets, num missed: 1
+key: Hidegseg,Camp,Hungary, num missed: 2
+key: יוסטן מוניקה, num missed: 1
+key: Jever,Oldenburg,Oldenburg,Germany, num missed: 1
+key: Les Juifs dans le Morbihan, num missed: 1
+key: Dannes Camiers,Camp, num missed: 1
+key: היכל השמות, num missed: 10
+key: Matthias Heyl, num missed: 1
+key: בלחנין דינה, num missed: 1
+key: Zembin Ghetto, num missed: 1
+key: שוויצר סוזן, בזל שוויץ, num missed: 1
+key: Israelitische Kultusvereinigung Wuerttemberg und Hohenzollern, num missed: 1
+key: מיכאל ברגמן - Bergman, num missed: 1
+key: אוה שץ, num missed: 1
+key: לופינסקי חנה, num missed: 1
+key: שמולביץ בת-ציון, num missed: 1
+key: Dieterichs Wilfried, num missed: 1
+key: Stark Benjamin, num missed: 1
+key: Plauen,Zwickau,Saxony,Germany, num missed: 1
+key: Ronkin Grigory, num missed: 1
+key: שנברגר ליזי, num missed: 1
+key: Vysokii Polk, num missed: 1
+key: Kellerman Ruth, num missed: 1
+key: שפירא שמעון, num missed: 1
+key: JEVREJSKI ISTORIJSKI MUZEJ, BEOGRAD, SERBIA AND MONTENEGRO, num missed: 1
+key: Marlis Andreas Meckel*, num missed: 1
+key: ארליך רינה, num missed: 1
+key: שורצבלט רמונה שושנה, num missed: 1
+key: Leopold Banny, num missed: 1
+key: שור יוספה, num missed: 1
+key: <>,<>,<>,Germany, num missed: 34
+key: Shapovalovka Area,vicinity,Murder Site,Ukraine (USSR), num missed: 1
+key: צ'ארלס פיטר, num missed: 1
+key: שמואל פדר, num missed: 1
+key: Leonid Dusman, num missed: 1
+key: OKREGOWA KOMISJA BADANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU - OKBZPNP, POZNAN, POLAND, num missed: 1
+key: Greussen,Weimar,Thuringia,Germany, num missed: 1
+key: אדית אנגלמן, num missed: 2
+key: אמיר חנה, num missed: 1
+key: Hans-Werner Ziemer, num missed: 1
+key: Fuerth,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: Szeparowce Area,forest,Murder Site,Poland, num missed: 12
+key: שור מאשה, num missed: 1
+key: מונטר סילביה וארנסט, num missed: 1
+key: VARADI JENO, num missed: 1
+key: עמירם צבי, num missed: 1
+key: Bielefeld Schildesche,Minden,Westphalia,Germany, num missed: 1
+key: Ehrenburg Alex, num missed: 1
+key: מסר בלה, num missed: 1
+key: INTERNATIONAL TRACING SERVICE, num missed: 3
+key: Gorodok Area,Beryozovskaya Gora,hill,Murder Site,Belorussia (USSR), num missed: 1
+key: גורליק יסאב, num missed: 1
+key: בוריס מפציר מוזיאון היהודי ב-Kerson, num missed: 3
+key: KLEBER HEINZ, num missed: 1
+key: Tupichev Area,forest,Murder Site,Ukraine (USSR), num missed: 1
+key: Staatsanwaltschaft Stuttgart, num missed: 2
+key: אגודת הפעילים והחברים של התרבות היהודית, num missed: 2
+key: לנגיצקי רותי, num missed: 1
+key: וייצר אליהו, num missed: 1
+key: Konieczny Alfred, num missed: 1
+key: UNION OF JEWISH COMMUNITIES OF YUGOSLAVIA, num missed: 1
+key: אירלנד נתן, num missed: 1
+key: SS-Standortfuehrung Mittelbau, Politische Abteilung, num missed: 1
+key: ארסן בוריס, num missed: 1
+key: יזרסקי אליהו\, num missed: 1
+key: סלדקביץ' מיכאל, num missed: 1
+key: פרס ריטה, num missed: 1
+key: קלמן רוזנר, num missed: 1
+key: ברוכנסקי יונה, num missed: 1
+key: ארגון יוצאי כאמסק בישראל, num missed: 3
+key: ועד הפעולה להקמת המצבה לקדושי Kurzeniec, num missed: 1
+key: Pavel Sokolski, num missed: 2
+key: רספי שושנה, num missed: 1
+key: Klamry,Murder Site, num missed: 1
+key: אופנהיימר ג., num missed: 1
+key: רומן צנזוב, num missed: 1
+key: Burger Adolf, num missed: 1
+key: צבי ברנהרט, num missed: 1
+key: Bruenlitz,Camp, num missed: 1
+key: ד''ר ברוך בן-דור, num missed: 1
+key: רובינצ'יק מרה, num missed: 1
+key: Hajnowka,Bielsk Podlaski,Bialystok,Poland, num missed: 2
+key: Beith Din, num missed: 1
+key: ע"י לשכת הקשר (משרד החוץ) רח' המלאכה 8, ת"א 03/5639730, num missed: 1
+key: הריס חנה, num missed: 1
+key: Montelupich,Detention Site, num missed: 2
+key: ניימן מילה, num missed: 1
+key: סלע מירב, num missed: 1
+key: אתי שאול, num missed: 1
+key: Udodovsky Vladimir and Mira, num missed: 1
+key: צוות הסיוע לשיקום המצבה לזכר קורבנות השואה, num missed: 1
+key: Neckargerach,Camp, num missed: 1
+key: נלי ולנר, num missed: 1
+key: Geisa,Weimar,Thuringia,Germany, num missed: 3
+key: ע"י שגרירות ישראל בודפשט, num missed: 1
+key: הבר ר. ג., num missed: 1
+key: מרון אליהו, num missed: 1
+key: אברהם ארמין, num missed: 1
+key: Makeyevskiy Kraevedcheskiy Muzey, num missed: 1
+key: צ'רקסקי מרי\, num missed: 1
+key: Breslau,Breslau,Silesia (Lower),Germany, num missed: 7
+key: Eugen Loebl, num missed: 1
+key: רח או, num missed: 1
+key: שמואל מורג, num missed: 1
+key: FEDERATIA COMUNITATILOR EVREIESTI DIN ROMANIA, num missed: 1
+key: Arnstadt,Weimar,Thuringia,Germany, num missed: 1
+key: דאבר מרטין, num missed: 1
+key: Gorki,Beliy Ruchey,plot,Murder Site,Belorussia (USSR), num missed: 3
+key: יעקב לוי, num missed: 2
+key: אביעזר מרים, num missed: 2
+key: Weimar,Weimar,Thuringia,Germany, num missed: 3
+key: קימלדורף נחמה, num missed: 1
+key: Leitmeritz,Camp, num missed: 1
+key: מאיר לויטנוס, num missed: 1
+key: לוי עזריאל, num missed: 1
+key: HAUPTSTAATSARCHIV STUTTGART, num missed: 1
+key: Heddernheim,Wiesbaden,Hesse-Nassau,Germany, num missed: 1
+key: SCHWEIZERISCHES BUNDESARCHIV, BERN, SWITZERLAND, num missed: 1
+key: ראיסה שטוטמן, num missed: 2
+key: גסטפו, num missed: 1
+key: שינפלד שמרה, num missed: 1
+key: Chekhlare,Camp,Bulgaria, num missed: 2
+key: Fuchs-Kittowski Klaus, Dr. Prof, num missed: 1
+key: סטרול חנה, num missed: 1
+key: Johanngeorgenstadt,Camp, num missed: 1
+key: צמח יעקובסון, num missed: 1
+key: ע"י וייס אהרון, num missed: 1
+key: דניאל רחל, num missed: 1
+key: Goleszow,Camp, num missed: 1
+key: אשכנזי אלברט, num missed: 1
+key: Kaltensundheim ueber Meiningen,Weimar,Thuringia,Germany, num missed: 1
+key: רוזנברג מרדכי מקס, num missed: 1
+key: פטריאקוב פאינה, num missed: 1
+key: אגודת אסירי גטאות ומחנות במחוז Chernovtsy, num missed: 1
+key: <>,<>,Saxony,Germany, num missed: 1
+key: Serviciul central de stare civila, num missed: 1
+key: דקר בריגיטה, דקר מרטין בילפלד, גרמניה, num missed: 1
+key: יעל דיאמנט, num missed: 2
+key: ליידן הילדגרד, num missed: 1
+key: Fuerstengrube,Camp, num missed: 1
+key: רייזמן פייבל, num missed: 2
+key: Wasiliszki,cemetery,Murder Site,Poland, num missed: 1
+key: פירחיה קלר ובן-ציון ליבוביץ, num missed: 1
+key: אגודת אסירי שוורצהיידה לשעבר, פראג, צ'כיה, num missed: 1
+key: ע"י שגרירות ישראל בוינה, num missed: 1
+key: פיש יונה, num missed: 1
+key: דויטש יעקב, num missed: 1
+key: Boris Maftzir, num missed: 13
+key: דר' פרבר, num missed: 1
+key: Deutsch-Israelische Gesellschaft, num missed: 1
+key: צור יעקב בית טרזין, num missed: 1
+key: Lev Bondar, num missed: 5
+key: רובינשטיין ז'נט, num missed: 1
+key: המטכ"ל של הצבא הצרפתי, num missed: 1
+key: ידידוביץ נתן, num missed: 1
+key: Gliwice,Oppeln,Silesia (Upper),Germany, num missed: 1
+key: Reifova Eva, num missed: 1
+key: שטריק נינה, num missed: 1
+key: אדמיניסטרציה של Ivano-Frankovsk, num missed: 1
+key: קרן ומרכז הולוקוסט במוסקבה. מנהל - דר' אלטמן בוריס מפציר, num missed: 4
+key: Mikhail Ostrovskiy, num missed: 1
+key: פוזז לואיס, num missed: 1
+key: Saint Louis,Refugees Ship, num missed: 2
+key: Ihringen,Karlsruhe,Baden,Germany, num missed: 1
+key: איליה רזניקוב, num missed: 1
+key: Odessa,Ghetto, num missed: 1
+key: Wels Ii,Camp, num missed: 1
+key: Recebedou,Camp,France, num missed: 1
+key: לאה הוליץ, num missed: 1
+key: Burg,Magdeburg,Saxony Province,Germany, num missed: 1
+key: ע"י Stichting Vrienden van Yad Vashem, Netherland, num missed: 1
+key: לוטה גרינשפאן ,צרפת, num missed: 1
+key: גרוס אלימלך, num missed: 2
+key: לקס מיכאל*, num missed: 1
+key: Kloster Gruessau,Camp,Germany, num missed: 1
+key: קרנטר יוסף, num missed: 1
+key: Blankenhain,Weimar,Thuringia,Germany, num missed: 1
+key: Grosslangheim,Mainfranken,Bavaria,Germany, num missed: 1
+key: Ravensbrueck,Camp, num missed: 5
+key: ועד הקהילות הקדושות בפולין, num missed: 1
+key: קרפר רחל, num missed: 1
+key: ארגון יוצי ביאליסטוק והסביבה, num missed: 1
+key: ארגון יוצאי אמשינוב בישראל, num missed: 1
+key: Wittlich,Trier,Rhine Province,Germany, num missed: 2
+key: Poznan,Camp, num missed: 1
+key: ברונקה קליבנסקי, num missed: 1
+key: Moisey Loyfer, num missed: 1
+key: Michail Goldenberg, num missed: 1
+key: Allenstein,Allenstein,East Prussia,Germany, num missed: 1
+key: מרדכי קאול, num missed: 1
+key: Zwi Hersch Zaks, num missed: 1
+key: חפר פנינה, num missed: 1
+key: Rada zidovskych nabozenskych obci v zemich ceske a moravskoslezske, num missed: 1
+key: Stoniewicze Area,forest,Murder Site,Poland, num missed: 1
+key: קלאוס גרטרודה, ארה"ב, num missed: 1
+key: Janusz Porycki, num missed: 2
+key: אימיאניטוב איליה, num missed: 1
+Total missed keys: 1951 total missed count: 2734

@@ -1,0 +1,50 @@
+key: רוזאנס אברהם בר' ישראל, num missed: 1
+key: תרבות - רשת בתי ספר ומוסדות תרבות עבריים בארצות מזרח אירופה, num missed: 2
+key: משפחת אטדיטי, num missed: 1
+key: Belev Alexander, num missed: 13
+key: <>,<>,<>,Germany, num missed: 7
+key: Bucuresti,<>,<>,Romania, num missed: 4
+key: Auschwitz,מחנה,Poland, num missed: 2
+key: משרד הפנים - בולגריה, num missed: 2
+key: <>,<>,Berlin,Germany, num missed: 3
+key: Bonn,Koeln,Rhine Province,Germany, num missed: 1
+key: Malaga,<>,Andalucia,Spain, num missed: 1
+key: התיק נוצר על ידי, num missed: 2
+key: Hannover,Hannover,Hanover,Germany, num missed: 1
+key: Macedonia,<>,<>,<>, num missed: 3
+key: Strasburg,<>,Brandenburg,Germany, num missed: 1
+key: משפחת אארדיטי, num missed: 1
+key: משפחת אררדיטי, num missed: 1
+key: משפחת ארדיטי משפחת ארדיטי, num missed: 1
+key: Churchill Winston Leonard Spencer Sir, num missed: 1
+key: עזרה סוציאלית, num missed: 13
+key: צשפחת ארדיטי, num missed: 3
+key: Koblenz,Koblenz,Rhine Province,Germany, num missed: 2
+key: מפלגה קומוניסטית, num missed: 2
+key: חננאל אשר, num missed: 1
+key: Oorlogsdocumentatie, num missed: 1
+key: משפחת ארדיטי, num missed: 301
+key: ויצ"ו למחיקה, num missed: 3
+key: Haschomer Haza'ir (Schomer), num missed: 5
+key: Gradeshnitsa,מחנה,Bulgaria, num missed: 1
+key: רוזאניס שלמה, num missed: 1
+key: אירגון ציוני בSOFIA, num missed: 1
+key: Enciclopedia Judaica Castellana, num missed: 2
+key: גרינבוים יצחק, num missed: 1
+key: סוקולוב נחום, num missed: 2
+key: CENTRE DE DOCUMENTATION JUIVE CONTEMPORAINE, PARIS, FRANCE, num missed: 2
+key: Hamburg,Hamburg,Hamburg,Germany, num missed: 2
+key: Momchilov Ivan, num missed: 2
+key: Munchen,Oberbayern,Bavaria,Germany, num missed: 3
+key: Bor,מחנה,Yugoslavia, num missed: 1
+key: ארדיטי בנימין, num missed: 2
+key: RKKA - Raboche-krestyanskaya Krasnaya Armiya, num missed: 3
+key: Nurnberg,Oberfranken und Mittelfranken,Bavaria,Germany, num missed: 1
+key: ועד יהודי לעזרה, num missed: 1
+key: Frankfurt am Main,Wiesbaden,Hesse-Nassau,Germany, num missed: 5
+key: Neuilly sur Seine,Seine - Seine et Oise,<>,France, num missed: 1
+key: ברוך מרקו, num missed: 3
+key: Berlin,Berlin,Berlin,Germany, num missed: 11
+key: האוסף נוצר על ידי , num missed: 2
+key: משפםחת ארדיטי, num missed: 1
+Total missed keys: 49 total missed count: 427

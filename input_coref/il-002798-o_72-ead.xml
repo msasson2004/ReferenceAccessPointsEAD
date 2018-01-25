@@ -64,12 +64,13 @@ JL according to the RG description in the YV system
       </p>
     </processinfo>
     <controlaccess>
-      <subject authfilenumber="872" source="ehri_terms">Jewish Communities</subject>
+      <subject>Jewish Communities</subject>
     </controlaccess>
     <controlaccess>
-      <geogname>
+      <geogname authfilenumber="1" source="ehri_geo">
 	<extptr xlink:type="simple" xlink:href="http://dati.cdec.it/lod/shoah/place/Germany"></extptr>
-	Germany</geogname>
+	Germany
+	</geogname>
     </controlaccess>
   </archdesc>
 </ead>
