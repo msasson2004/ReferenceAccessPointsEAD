@@ -1,2 +1,2 @@
 key: ארכיון יד ושם / Yad Vashem Archives, num missed: 1
-Total missed keys: 1
+Total missed keys: 1 total missed count: 1
